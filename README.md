@@ -139,7 +139,7 @@ graph TD;
 
 Chmura, czyli cloud computing, to model dostarczania różnorodnych usług IT poprzez internet. Usługi te mogą obejmować serwery, przechowywanie danych, bazy danych, sieci, oprogramowanie, analitykę i inteligencję. Chmura umożliwia firmom unikanie kosztów i złożoności związanych z zakupem i konserwacją własnej infrastruktury IT. Cloud computing można podzielić na trzy główne kategorie usług: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) i Software as a Service (SaaS).
 
-**Kluczowe korzyści chmury:**
+**korzyści:**
 
 - **Elastyczność i skalowalność:** łatwa dostosowanie zasobów IT do aktualnych potrzeb.
 - **Koszty:** potencjał zmniejszenia wydatków operacyjnych dzięki modelowi płatności za faktyczne użycie.
@@ -151,7 +151,7 @@ Chmura, czyli cloud computing, to model dostarczania różnorodnych usług IT po
 
 Serverless, czyli architektura bezserwerowa, jest modelem wykonania w chmurze, w którym dostawca chmury zarządza uruchamianiem kodu aplikacji przez alokowanie zasobów obliczeniowych na żądanie. To eliminuje potrzebę ciągłego i aktywnego zarządzania serwerami przez deweloperów. Jednak nie oznacza to, że serwery fizycznie nie istnieją; oznacza to raczej, że zajmowanie się nimi nie jest już problemem deweloperów.
 
-**Kluczowe korzyści serverless:**
+**korzyści:**
 
 - **Brak zarządzania serwerami:** Infrastruktura jest abstrahowana.
 - **Płatność za rzeczywiste użycie:** Opłaty są naliczane tylko wtedy, gdy kod jest wykonywany.
