@@ -206,6 +206,10 @@ Obydwa podejścia odpowiadają na potrzebę szybszego dostarczania oprogramowani
 
 ## Zaprzepaszczone Szanse
 
+
+![obraz](https://github.com/askdomainer/2024/assets/5669657/56f2c126-f4ce-4add-be85-cf5100cd9810)
+
+
 Warto zauważyć, że te "zaprzepaszczone szanse" nie są jednoznacznie stratami; są one raczej oznaką ewolucji technologii i preferencji użytkowników, jak również adaptacyjności systemu DNS do rosnących wymagań bezpieczeństwa i funkcjonalności. Ponadto, bardziej zaawansowane technologie, takie jak wspomniane blockchainy, mogą oferować nowe sposoby realizacji tych idei, potencjalnie przezwyciężając ograniczenia, które uniemożliwiły ich pełne wdrożenie w przeszłości.
 
 
