@@ -1,12 +1,11 @@
-# 2024 - 2024.askdomainer.com
+# 2024.askdomainer.com
 
-Szukając odpowiedzi na pytania odnośnie stanu rynku domen, zacząłem szukać informacji odnośnie statystyk.
-Inetresuje mnie głównie zorzumienie rynku w roku 2024.
-Jak zmienia się rynek domen w kontekście zmian technologicznych?
+Zrozumienie rynku domen w roku 2024 nie jest łatwe, ten raport służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytanie:
+- Jak zmienia się rynek domen w kontekście zmian technologicznych?
 
-
-W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, nasz najnowszy raport rzuca światło na postępującą ewolucję infrastruktury internetowej, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
+W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury internetowej, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
 Dokument skupia się na fundamentach i konwekwencjach w której prywatne domeny providerów 5G/6G odgrywają kluczową rolę jako pośrednicy w dostępie do domen publicznych.
+
 
 
 ### Główne Punkty
@@ -28,11 +27,15 @@ Dla **deweloperów**, **spekulantów**, **inwestorów**, **specjalistów IT**, r
 
 
 
+
 ### Udostępnij w Social Mediach:
 
-"Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią świat domen internetowych? 🌐💡 Sprawdź nasz najnowszy raport, który zagłębia się w nadchodzące zmiany infrastruktury internetowej! Idealna lektura dla każdego technofila! #5G #6G #InternetPrzyszłości #BezpieczeństwoCyfrowe ➡️ [link-do-raportu]"
+"Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią świat domen internetowych? 🌐💡 Sprawdź nasz najnowszy raport, który zagłębia się w nadchodzące zmiany infrastruktury internetowej! 
+Idealna lektura dla każdego technofila! #5G #6G #InternetPrzyszłości #BezpieczeństwoCyfrowe ➡️ [link-do-raportu]"
 
 Dzięki takiemu podejściu, raport ma szansę dotrzeć do szerokiego grona odbiorców zainteresowanych przyszłością technologii, zarówno wśród profesjonalistów, jak i entuzjastów. Udostępniając go w mediach społecznościowych, nie tylko zwiększysz jego zasięg, ale również wpłyniesz na budowanie świadomości o nadchodzących przemianach w cyfrowym świecie.
+
+
 
 
 
@@ -42,17 +45,60 @@ Dzięki takiemu podejściu, raport ma szansę dotrzeć do szerokiego grona odbio
 
 ### Domain Name System
 
-System DNS (Domain Name System) odgrywa kluczową rolę w funkcjonowaniu Internetu, tłumacząc łatwe do zapamiętania nazwy domen (np. www.example.com) na skomplikowane adresy IP (np. 192.0.2.1), które są wykorzystywane przez komputery do łączenia się ze sobą. Chociaż system ten jest niezwykle efektywny w mapowaniu nazw stron internetowych, istnieją obszary, w których wykorzystanie DNS mogło być bardziej innowacyjne, ale nie zostało w pełni zrealizowane. Omówmy potencjalnie zaprzepaszczone szanse w kontekście zastępowania numerów telefonów, numerów kont bankowych, czy innych identyfikatorów:
+System DNS (Domain Name System) odgrywa kluczową rolę w funkcjonowaniu Internetu, tłumacząc łatwe do zapamiętania nazwy domen (np. www.example.com) na skomplikowane adresy IP (np. 192.0.2.1), które są wykorzystywane przez komputery do łączenia się ze sobą. Chociaż system ten jest niezwykle efektywny w mapowaniu nazw stron internetowych, istnieją obszary, w których wykorzystanie DNS mogło być bardziej innowacyjne. O czym napisano w kolejnych punktach.
+
 
 ### Komunikacja
 
-Wykorzystanie domen internetowych w komunikacji między ludźmi (H2H - Human-to-Human) oraz między człowiekiem a maszyną (H2M - Human-to-Machine) mogło otworzyć nowe możliwości dla interakcji w cyfrowym świecie. Proces ten miał potencjał zastąpienia skomplikowanych identyfikatorów numerycznych, adresów IP, identyfikatorów sprzętowych oraz innych trudnych do zapamiętania ciągów cyfr, ułatwiając użytkownikom nawigację i interakcję. Oto kilka przykładów, gdzie wykorzystanie domen mogło mieć większe znaczenie:
+Wykorzystanie domen internetowych w komunikacji między ludźmi (H2H - Human-to-Human) oraz między człowiekiem a maszyną (H2M - Human-to-Machine) mogło otworzyć nowe możliwości dla interakcji w cyfrowym świecie. Proces ten miał potencjał zastąpienia skomplikowanych identyfikatorów numerycznych, adresów IP, identyfikatorów sprzętowych oraz innych trudnych do zapamiętania ciągów cyfr, ułatwiając użytkownikom nawigację i interakcję. 
 
 
 ### Usługi
 
-+ SaaS
-+ PaaS
+Firmy coraz intensywniej korzystają z rozwiązań chmurowych, pojęcia takie jak SaaS, PaaS, czy FaaS zdobywają na popularności. 
+Rozwój chmury obliczeniowej i modeli dostarczania usług takich jak SaaS, PaaS i FaaS zrewolucjonizował sposób, w jaki firmy i deweloperzy budują i zarządzają aplikacjami internetowymi. 
+Każdy z tych modeli oferuje unikalne korzyści i jest odpowiedni dla różnych przypadków użycia, pomagając przy tym zminimalizować koszty i zwiększyć efektywność.
+Każde z nich opisuje inne podejście do dostarczania usług i tworzenia infrastruktury internetowej:
+
+
+#### SaaS (Software as a Service)
+
+Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez internet. Użytkownicy subskrybują usługę, najczęściej na zasadzie miesięcznej lub rocznej opłaty, zamiast kupować i instalować oprogramowanie na własnych komputerach.
+
+**Korzyści:**
+- **Brak konieczności instalacji i utrzymania oprogramowania**: Użytkownik nie musi martwić się o aktualizacje, konserwację czy kompatybilność sprzętową.
+- **Elastyczność i skalowalność**: Łatwość dostosowania ilości licencji do aktualnych potrzeb firmy.
+- **Dostępność**: Dostęp do aplikacji z dowolnego miejsca i na dowolnym urządzeniu z dostępem do internetu.
+
+**Przykłady**: Google Apps, Salesforce, Dropbox, Slack.
+
+
+
+#### PaaS (Platform as a Service)
+
+Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włączając w to system operacyjny, środowisko wykonawcze języka programowania, bazę danych, i narzędzia deweloperskie. Pozwala to deweloperom na tworzenie, wdrażanie i zarządzanie aplikacjami bez martwienia się o infrastrukturę podstawową.
+
+**Korzyści:**
+- **Zmniejszenie złożoności**: Deweloperzy mogą skoncentrować się na kodowaniu i innowacjach, nie martwiąc się o konserwację infrastruktury.
+- **Szybkie prototypowanie i wdrażanie**: Platformy PaaS oferują narzędzia, które ułatwiają szybkie tworzenie i wdrażanie aplikacji.
+- **Wbudowana skalowalność**: Możliwość łatwego skalowania aplikacji w zależności od zapotrzebowania.
+
+**Przykłady**: Heroku, Google App Engine, Azure Web Services.
+
+
+
+#### FaaS (Function as a Service)
+
+**FaaS**, znane również jako bezserwerowa architektura (serverless computing), to model pośredni między SaaS a PaaS. Umożliwia uruchamianie fragmentów kodu (funkcji) w odpowiedzi na zdarzenia, bez konieczności zarządzania serwerami lub infrastrukturą aplikacji. 
+
+**Korzyści:**
+- **Skupienie się na pojedynczych funkcjach**: Deweloperzy mogą skupić się na pisaniu poszczególnych funkcji, nie martwiąc się o całą aplikację.
+- **Zwinność i szybkie wdrażanie**: Ułatwia eksperymentowanie i wprowadzanie małych zmian bez konieczności ponownego wdrażania całej aplikacji.
+- **Optymalizacja kosztów**: Płacisz tylko za czas wykonania twoich funkcji, nie za nieużywane serwery.
+
+**Przykłady**: AWS Lambda, Azure Functions, Google Cloud Functions.
+
+
 
 
 
