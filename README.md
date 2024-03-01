@@ -1,4 +1,5 @@
-![obraz](https://github.com/askdomainer/2024/assets/5669657/4dd9ca37-97b8-4975-9fef-1c5009605993)
+![Screenshot from 2024-03-01 22-55-40](https://github.com/askdomainer/2024/assets/5669657/36d5033b-6078-4b15-9b65-c4287ff29b67)
+
 
 # [2024.askdomainer.com](https://2024.askdomainer.com/)
 
