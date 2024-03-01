@@ -302,7 +302,7 @@ graph LR;
 
 ```mermaid
 graph TD;
-    A[Wzrost znaczenia SEO] --> B[Wysoka wartość EMD (Exact Match Domains)]
+    A[Wzrost znaczenia SEO] --> B[Wysoka wartość EMD - Exact Match Domains]
     A --> C[Adaptacja do zmian algorytmów wyszukiwarek]
     B --> D[Inwestycje w kluczowe domeny]
     C --> E[SEO techniczne]
