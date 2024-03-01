@@ -355,13 +355,16 @@ Choć technicznie możliwe jest projektowanie i używanie systemów H2M oraz imp
 
 
 
+
+
 ## Interfejs
 
 ![Screenshot from 2024-03-01 22-48-26](https://github.com/askdomainer/2024/assets/5669657/82c98e05-b1ad-443e-9a79-e66c43cd0de6)
 
 
 
-Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interfejsu i sposobem, w jaki użytkownicy lub systemy mają dostęp do zasobów cyfrowych. Interfejsy, które ułatwiają bezpośrednią, łatwą i często publiczną interakcję, zazwyczaj korzystają na posiadaniu własnych, łatwych do zapamiętania domen internetowych. W przeciwieństwie do tego, niektóre interfejsy mogą funkcjonować efektywnie bez domen, polegając na innych metodach identyfikacji lub lokalnym dostępie. Oto analiza obu scenariuszy:
+Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interfejsu i sposobem, w jaki użytkownicy lub systemy mają dostęp do zasobów cyfrowych. Interfejsy, które ułatwiają bezpośrednią, łatwą i często publiczną interakcję, zazwyczaj korzystają na posiadaniu własnych, łatwych do zapamiętania domen internetowych. W przeciwieństwie do tego, niektóre interfejsy mogą funkcjonować efektywnie bez domen, polegając na innych metodach identyfikacji lub lokalnym dostępie. 
+
 
 ### Interfejsy wymagające domen internetowych:
 
@@ -374,16 +377,21 @@ Aplikacje działające w przeglądarce, oferujące szeroki zakres usług (od nar
 #### API (Application Programming Interface)
 oparte na sieci: Publicznie dostępne interfejsy programistyczne, które pozwalają na integrację z różnymi usługami i aplikacjami, często korzystają z domen internetowych, aby zapewnić stabilny i łatwo dostępny punkt dostępu.
 
+
+
 ### Interfejsy, które nie wymagają domen internetowych:
 
 #### Aplikacje desktopowe
 Aplikacje instalowane na komputerze użytkownika często komunikują się z internetem lub serwerami backendowymi bezpośrednio przez adresy IP lub za pomocą wewnętrznych identyfikatorów. Domena internetowa nie jest potrzebna do funkcjonowania aplikacji.
 
+
 #### Aplikacje mobilne
 Podobnie jak aplikacje desktopowe, aplikacje mobilne mogą korzystać z usług internetowych bezpośrednio przez zaprogramowane punkty końcowe, które nie muszą być domenami internetowymi zrozumiałymi dla użytkownika końcowego.
 
+
 #### Wewnętrzne narzędzia i systemy
 Systemy używane wewnętrznie przez przedsiębiorstwa, takie jak narzędzia do zarządzania bazami danych, wewnętrzne portale pracownicze czy systemy zarządzania treścią (CMS), mogą działać w izolowanej sieci korporacyjnej, wykorzystując nazwy hostów lub lokalne adresy IP bez potrzeby posiadania publicznych domen internetowych.
+
 
 #### Interfejsy dla urządzeń IoT
 Chociaż niektóre urządzenia IoT mogą korzystać z domen w celach zarządzania lub monitorowania, sama komunikacja między urządzeniami lub z serwerami backendowymi często odbywa się za pomocą protokołów komunikacyjnych specyficznych dla IoT, które nie wymagają użycia domen internetowych w tradycyjnym sensie.
@@ -393,7 +401,7 @@ Chociaż niektóre urządzenia IoT mogą korzystać z domen w celach zarządzani
 
 ### Podsumowanie:
 
-Ogólnie rzecz biorąc, zapotrzebowanie na domeny internetowe zależy od natury interfejsu i publicznego dostępu do usługi. Publicznie dostępne serwisy, które wymagają łatwej identyfikacji i dostępu, będą miały większe korzyści z używania domen. W kontrze, aplikacje i systemy działające w zamkniętych lub spe
+Ogólnie rzecz biorąc, zapotrzebowanie na domeny internetowe zależy od natury interfejsu i publicznego dostępu do usługi. Publicznie dostępne serwisy, które wymagają łatwej identyfikacji i dostępu, będą miały większe korzyści z używania domen. W kontrze, aplikacje i systemy działające w zamkniętych środowiskach.
 
 
 
