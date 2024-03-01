@@ -310,6 +310,22 @@ Rozwój alternatywnych technologii, takich jak zdecentralizowany internet (np. t
 Nowe prawa i regulacje dotyczące internetu, prywatności danych oraz cyfrowych aktywów mogą wpłynąć na sposób, w jaki domeny są wyceniane i handlowane.
 
 
+### Polityka rejestrów
+
+W październiku 2022 NASK podniósł ceny domen o 10 zł netto (.pl) lub więcej (regionalne, idn).
+W 2023 roku zostało odnowionych 1,75 mln domen, co oznacza dodatkowy przychód 17+ mln zł.
+Dziś dowiadujemy się, że w połowie 2022 pan Morawiecki zainstalował w NASK "dział przeciwdziałania dezinformacji", który realnie zajmował się monitorowaniem reakcji Internetu na działania Polityków i sprawdzaniem, co myślą Polacy przed wyborami, a którego działalność kosztowała łącznie 19 mln zł. 
++ [źródło](https://di.pl/topic/126431-na-co-posz%C5%82a-kasa-z-podwy%C5%BCek-cen-domen/?tab=comments#comment-674309)
+
+
+### Handel domenami na rynku wtórnym
+
+Domeny tracą na rzecz platform SaaS, które nie wymagają posiadania własnej domeny, a tych, którzy robią coś sensownego pod własną domeną jest coraz mniej, młode pokolenia coraz rzadziej widzą sens w kupowaniu domen.
+Komu wazrost cen najbardziej zaszkodził? 
+
+Detaliści i tak ich nie przedłużą jak im nie są potrzebne a sprzedawać na rynku wtórnym nie chcą, nie umieją luub nie wiedzą potrzeby.
+Obawiam się, że to posiadacze większych portfolio domen, dziąłający na rynku wtórnym finansują synekury.
+W tym samym czasie domeny .de sa dostępne w cenach poniżej 10EUR a przyrost cen .com jest, chociaż częściowo uzasadniony z racji znaczenia w globalnej podaży domen internetowych.
 
 
 
