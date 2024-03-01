@@ -67,13 +67,13 @@ Każde z nich opisuje inne podejście do dostarczania usług i tworzenia infrast
 #### SaaS (Software as a Service)
 
 
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Użytkownik] -->|Dostęp przez przeglądarkę| B[Oprogramowanie SaaS]
     B -->|Zarządzanie/licencje/subskrypcje| C{Serwer SaaS}
     C -->|Oprogramowanie jako usługa| D[Chmura]
     C -->|Dane| E[Baza danych]
-</pre>
+```
 
 Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez internet. Użytkownicy subskrybują usługę, najczęściej na zasadzie miesięcznej lub rocznej opłaty, zamiast kupować i instalować oprogramowanie na własnych komputerach.
 
@@ -89,14 +89,14 @@ Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez
 #### PaaS (Platform as a Service)
 
 
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Deweloper] --> |Tworzy aplikację| B[Aplikacja]
     B -->|Wdrażanie| C{Platforma PaaS}
     C -->|System operacyjny| D[Chmura]
     C -->|Środowisko wykonawcze| E[Chmura]
     C -->|Baza danych| F[Chmura]
-</pre>
+```
 
 Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włączając w to system operacyjny, środowisko wykonawcze języka programowania, bazę danych, i narzędzia deweloperskie. Pozwala to deweloperom na tworzenie, wdrażanie i zarządzanie aplikacjami bez martwienia się o infrastrukturę podstawową.
 
