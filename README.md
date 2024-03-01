@@ -242,27 +242,6 @@ Identyfikacja urządzeń i zarządzanie nimi
 
 Domeny internetowe mogłyby zastąpić skomplikowane adresowanie w systemach IoT, ułatwiając użytkownikom identyfikację i komunikację z urządzeniami. Na przykład, zamiast korzystać z długiego i skomplikowanego adresu IP do połączenia się z inteligentną lodówką, użytkownik mógłby po prostu wpisać prostą i intuicyjną nazwę domeny. W kontekście zarządzania flotą urządzeń, takich jak serwery, routery czy też drukarki w dużych organizacjach, ułatwiając zarządzanie i konserwację.
 
-W kontekście standardów ip6, 5G i 6G jest szansą na użycie domen lokalnie, ale pozostające w gesti providera
-Wzrost zainteresowania domenami internetowymi i zwiększone zapotrzebowanie na nie mogą być napędzane przez rozwój i implementację standardów takich jak IPv6, 5G oraz przyszłych technologii 6G, z kilku kluczowych powodów:
-
-**IPv6** oferuje znacznie większą przestrzeń adresową niż IPv4, co rozwiązuje problem wyczerpywania się adresów IP i umożliwia bezpośrednie połączenia do znacznie większej liczby urządzeń.
-Zwiększenie liczby urządzeń zdolnych do bezpośredniego połączenia z internetem (wśród nich IoT - Internet rzeczy) podnosi potencjalne zapotrzebowanie na nazwy domen, gdyż każde urządzenie, zwłaszcza te przeznaczone do interakcji z użytkownikiem, może wymagać łatwej do zapamiętania identyfikacji w świecie cyfrowym.
-
-***5G** i przyszłe sieci **6G** mają potencjalnie wnieść rewolucję w szybkości i możliwościach połączeń internetowych, umożliwiając szeroko dostępne, ultrawysokie prędkości przesyłu danych oraz niskie opóźnienia. Dla rozwoju domen internetowych oznacza to kilka rzeczy:
-
-
-#### Większe możliwości IoT
-Zwiększona przepustowość i niższe opóźnienia ułatwią rozwój zaawansowanego IoT, co może przełożyć się na potrzebę posiadania unikalnych domen dla niezliczonych nowych urządzeń i serwisów internetowych.
-
-  
-#### Nowe usługi internetowe
-Większe prędkości i zasięg mogą stworzyć popyt na nowe rodzaje serwisów online, które będą wymagały rejestracji nowych domen, zarówno dla usług konsumenckich, jak i biznesowych. 
-
-
-#### Wirtualna i rozszerzona rzeczywistość
-Zwiększone prędkości i mniejsze opóźnienia sieciowe są kluczowe dla rozwoju technologii VR (Virtual Reality) i AR (Augmented Reality), co może prowadzić do wzrostu popytu na domeny związane z tymi technologiami.
-  
-
 
 
 
@@ -449,7 +428,7 @@ graph TD;
 
 Poniżej przedstawiam sposób, w jaki można zobrazować opisaną infrastrukturę za pomocą notacji Mermaid. Diagram przedstawia uproszczone podejście do ewolucji infrastruktury od obecnej struktury "Numer -> domena -> Certyfikat" do przyszłej struktury, w której domena prywatna providera 5G/6G odgrywa rolę pośrednika przed dotarciem do domeny publicznej i kolejnych certyfikatów:
 
-### Infrastruktura:
+#### Dzisiejsza infrastruktura:
 
 
     Numer -> domena -> Certyfikat
@@ -460,7 +439,7 @@ graph TD;
     B --> C[Certyfikat]
 ```
 
-### Infrastruktura przyszłości:
+#### Infrastruktura przyszłości:
 
 
 
@@ -474,7 +453,7 @@ graph TD;
     D --> E[Certyfikat dla domeny publicznej]
 ```
 
-### Wyjaśnienie:
+#### Wyjaśnienie:
 
 - W obecnej infrastrukturze, pojęcie "Numer" oznacza punkt startowy, który może być dowolnym identyfikatorem użytkownika lub urządzenia. Ten numer jest następnie przyporządkowany do konkretnej domeny, dla której wydawany jest certyfikat potwierdzający jej tożsamość.
 
@@ -484,9 +463,32 @@ Ta ewolucja w strukturze infrastruktury odzwierciedla rosnącą złożoność i 
 
 
 
+W kontekście standardów ip6, 5G i 6G jest szansą na użycie domen lokalnie, ale pozostające w gesti providera
+Wzrost zainteresowania domenami internetowymi i zwiększone zapotrzebowanie na nie mogą być napędzane przez rozwój i implementację standardów takich jak IPv6, 5G oraz przyszłych technologii 6G, z kilku kluczowych powodów:
+
+**IPv6** oferuje znacznie większą przestrzeń adresową niż IPv4, co rozwiązuje problem wyczerpywania się adresów IP i umożliwia bezpośrednie połączenia do znacznie większej liczby urządzeń.
+Zwiększenie liczby urządzeń zdolnych do bezpośredniego połączenia z internetem (wśród nich IoT - Internet rzeczy) podnosi potencjalne zapotrzebowanie na nazwy domen, gdyż każde urządzenie, zwłaszcza te przeznaczone do interakcji z użytkownikiem, może wymagać łatwej do zapamiętania identyfikacji w świecie cyfrowym.
+
+***5G** i przyszłe sieci **6G** mają potencjalnie wnieść rewolucję w szybkości i możliwościach połączeń internetowych, umożliwiając szeroko dostępne, ultrawysokie prędkości przesyłu danych oraz niskie opóźnienia. Dla rozwoju domen internetowych oznacza to kilka rzeczy:
+
+
+#### Większe możliwości IoT
+Zwiększona przepustowość i niższe opóźnienia ułatwią rozwój zaawansowanego IoT, co może przełożyć się na potrzebę posiadania unikalnych domen dla niezliczonych nowych urządzeń i serwisów internetowych.
+
+  
+#### Nowe usługi internetowe
+Większe prędkości i zasięg mogą stworzyć popyt na nowe rodzaje serwisów online, które będą wymagały rejestracji nowych domen, zarówno dla usług konsumenckich, jak i biznesowych. 
+
+
+#### Wirtualna i rozszerzona rzeczywistość
+Zwiększone prędkości i mniejsze opóźnienia sieciowe są kluczowe dla rozwoju technologii VR (Virtual Reality) i AR (Augmented Reality), co może prowadzić do wzrostu popytu na domeny związane z tymi technologiami.
+  
+
+
 
 
 ### Wzrost znaczenia i wartości wysokiej jakości domen
+
 Domeny o łatwych do zapamiętania, krótkich i atrakcyjnych nazwach będą nadal cieszyć się dużą wartością ze względu na swój potencjał marketingowy i brandingowy. W miarę jak coraz więcej przedsiębiorstw przenosi się do przestrzeni cyfrowej, konkurencja o atrakcyjne nazwy domen może się zintensyfikować.
 
 
@@ -494,12 +496,14 @@ Domeny o łatwych do zapamiętania, krótkich i atrakcyjnych nazwach będą nada
 
 
 ### Rozszerzenie i dywersyfikacja TLDs
+
 Top-Level Domains (TLDs) są często uzupełniane o nowe rozszerzenia, co pozwala na większą kreatywność i specjalizację w nazewnictwie domen. 
 Możemy spodziewać się wprowadzenia jeszcze więcej niestandardowych TLDs, które odpowiadają na specyficzne potrzeby branż lub społeczności.
 
 
 
 ### Wzrost znaczenia domen w zdecentralizowanym internecie
+
 Technologie blockchain i zdecentralizowane systemy identyfikacji mogą zmienić sposób, w jaki domeny są zarządzane i przypisane, zapewniając większą kontrolę użytkownikom i zabezpieczenia przed cenzurą. Domeny oparte na blockchainie już istnieją (np. .crypto, .eth), a ich popularność może wzrastać.
 
 
