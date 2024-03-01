@@ -67,13 +67,13 @@ Każde z nich opisuje inne podejście do dostarczania usług i tworzenia infrast
 #### SaaS (Software as a Service)
 
 
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Użytkownik] -->|Dostęp przez przeglądarkę| B[Oprogramowanie SaaS]
     B -->|Zarządzanie/licencje/subskrypcje| C{Serwer SaaS}
     C -->|Oprogramowanie jako usługa| D[Chmura]
     C -->|Dane| E[Baza danych]
-```
+</pre>
 
 Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez internet. Użytkownicy subskrybują usługę, najczęściej na zasadzie miesięcznej lub rocznej opłaty, zamiast kupować i instalować oprogramowanie na własnych komputerach.
 
@@ -89,14 +89,14 @@ Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez
 #### PaaS (Platform as a Service)
 
 
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Deweloper] --> |Tworzy aplikację| B[Aplikacja]
     B -->|Wdrażanie| C{Platforma PaaS}
     C -->|System operacyjny| D[Chmura]
     C -->|Środowisko wykonawcze| E[Chmura]
     C -->|Baza danych| F[Chmura]
-```
+</pre>
 
 Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włączając w to system operacyjny, środowisko wykonawcze języka programowania, bazę danych, i narzędzia deweloperskie. Pozwala to deweloperom na tworzenie, wdrażanie i zarządzanie aplikacjami bez martwienia się o infrastrukturę podstawową.
 
@@ -112,13 +112,13 @@ Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włą
 #### FaaS (Function as a Service)
 
 
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Deweloper] --> |Tworzy funkcję| B[Funkcja]
     B --> |Wyzwalacz zdarzeń| C{FaaS}
     C --> |Automatyczne skalowanie| D[Chmura]
     D --> |Zarządzanie infrastrukturą| E[Serverless]
-```
+</pre>
 
 
 **FaaS**, znane również jako bezserwerowa architektura (serverless computing), to model pośredni między SaaS a PaaS. Umożliwia uruchamianie fragmentów kodu (funkcji) w odpowiedzi na zdarzenia, bez konieczności zarządzania serwerami lub infrastrukturą aplikacji. 
@@ -411,7 +411,7 @@ Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologi
 
 #### Wzrost znaczenia domen internetowych
 
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[2023] --> B[Wybrane przez przedsiębiorstwa]
     A --> C[Stworzone dla zabezpieczeń danych]
@@ -422,7 +422,7 @@ graph TD;
     E --> H[Potrzeba ochrony znaków towarowych online]
     F --> I[Wzmocnione zaufanie klientów]
     G --> J[Łatwiejsza komunikacja z urządzeniami]
-```
+</pre>
 
 
 ### Kolejne warstwy infrastruktury
@@ -435,11 +435,11 @@ Poniżej przedstawiam sposób, w jaki można zobrazować opisaną infrastruktur�
 
     Numer -> domena -> Certyfikat
     
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Numer] --> B[Domena]
     B --> C[Certyfikat]
-```
+</pre>
 
 ### Infrastruktura przyszłości:
 
@@ -447,13 +447,13 @@ graph TD;
 
     Numer -> domena prywatna providera 5G/6G -> Certyfikat -> domena publiczna -> Certyfikat
     
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Numer] --> B[Domena prywatna providera 5G/6G]
     B --> C[Certyfikat dla domeny prywatnej]
     C --> D[Domena publiczna]
     D --> E[Certyfikat dla domeny publicznej]
-```
+</pre>
 
 ### Wyjaśnienie:
 
@@ -487,7 +487,7 @@ Technologie blockchain i zdecentralizowane systemy identyfikacji mogą zmienić 
 
 #### Rozwój i dywersyfikacja domen TLD
 
-```mermaid
+<pre class="mermaid">
 graph LR;
     A[Rozwój sieci 5G,6G] --> B[Wzrost IoT i urządzeń połączonych]
     A --> C[Innowacje technologiczne]
@@ -497,7 +497,7 @@ graph LR;
     E --> G[.health dla opieki zdrowotnej]
     E --> H[.crypto dla kryptowalut]
     F --> I[Zwiększona kontrola użytkowników nad prywatnością]
-```
+</pre>
 
 
 ### Domeny jako kluczowy element strategii SEO
@@ -505,7 +505,7 @@ Optymalizacja pod kątem wyszukiwarek (SEO) będzie nadal kluczowym elementem st
 
 #### Zmiany w SEO i wartości domen
 
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Wzrost znaczenia SEO] --> B[Wysoka wartość EMD - Exact Match Domains]
     A --> C[Adaptacja do zmian algorytmów wyszukiwarek]
@@ -514,7 +514,7 @@ graph TD;
     C --> F[Content Marketing]
     E --> G[Optymalizacja dla mobilnych i szybkich stron]
     F --> H[Zrozumienie i wykorzystanie intencji użytkownika]
-```
+</pre>
 
 ### Zwiększone zapotrzebowanie na zabezpieczenia domen
 Wzrost cyberzagrożeń wpłynie na popyt usług związanych z bezpieczeństwem domen, takie jak zabezpieczenia przed kradzieżami domen, zaawansowane zarządzanie certyfikatami SSL/TLS, czy ochrona prywatności danych właściciela domeny.
@@ -528,7 +528,7 @@ Skomplikowanie prawne może wpłynąć na rynek domen, wymuszając na biznesach 
 
 #### Bezpieczeństwo i regulacje domen
 
-```mermaid
+<pre class="mermaid">
 graph TD;
     A[Regulacje prawne] --> B[Ochrona danych osobowych]
     A --> C[Zabezpieczenia przed cyberatakami]
@@ -536,7 +536,7 @@ graph TD;
     B --> E[Wprowadzenie RODO i podobnych regulacji na świecie]
     C --> F[Zastosowanie zaawansowanych technologii szyfrowania]
     D --> G[Ścisła współpraca z rejestratorami domen]
-```
+</pre>
 
 
 
