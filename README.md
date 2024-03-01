@@ -3,9 +3,9 @@
 
 # [Rynek domen 2024 - raport AskDomainer](https://2024.askdomainer.com/)
 
-Zrozumienie rynku domen w roku 2024 nie jest łatwe, raport [AskDomainer](https://2024.askdomainer.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
+Zrozumienie rynku domen w roku 2024 nie jest łatwe, [raport AskDomainer](https://2024.askdomainer.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
 - Jak zmieniał się rynek domen w ostatniej dekadzie?
-- Jak zmieni się rynek do roku 2023?
+- Jak zmieni się rynek do roku 2030?
 
 W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury internetowej, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
 Dokument skupia się na fundamentach i konwekwencjach w której prywatne domeny providerów 5G/6G odgrywają kluczową rolę jako pośrednicy w dostępie do domen publicznych.
@@ -42,7 +42,7 @@ Dzięki takiemu podejściu, raport ma szansę dotrzeć do szerokiego grona odbio
 
 ### Dyskusja
 
-+ [Welcome to 2024 Discussions! · askdomainer/2024 · Discussion #1](https://github.com/askdomainer/2024/discussions/1)
++ [askdomainer/2024 · Discussion #1](https://github.com/askdomainer/2024/discussions/1)
 
 
 
