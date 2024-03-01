@@ -117,11 +117,13 @@ Wzrost zainteresowania domenami internetowymi i zwiększone zapotrzebowanie na n
 
 ### Wdrożenie IPv6
 
-**IPv6** oferuje znacznie większą przestrzeń adresową niż IPv4, co rozwiązuje problem wyczerpywania się adresów IP i umożliwia bezpośrednie połączenia do znacznie większej liczby urządzeń. Zwiększenie liczby urządzeń zdolnych do bezpośredniego połączenia z internetem (wśród nich IoT - Internet rzeczy) podnosi potencjalne zapotrzebowanie na nazwy domen, gdyż każde urządzenie, zwłaszcza te przeznaczone do interakcji z użytkownikiem, może wymagać łatwej do zapamiętania identyfikacji w świecie cyfrowym.
+**IPv6** oferuje znacznie większą przestrzeń adresową niż IPv4, co rozwiązuje problem wyczerpywania się adresów IP i umożliwia bezpośrednie połączenia do znacznie większej liczby urządzeń.
+Zwiększenie liczby urządzeń zdolnych do bezpośredniego połączenia z internetem (wśród nich IoT - Internet rzeczy) podnosi potencjalne zapotrzebowanie na nazwy domen, gdyż każde urządzenie, zwłaszcza te przeznaczone do interakcji z użytkownikiem, może wymagać łatwej do zapamiętania identyfikacji w świecie cyfrowym.
 
 ### Rozwój 5G i perspektywy 6G
 
 #### 5G,6G 
+
 ***5G** i przyszłe sieci **6G** mają potencjalnie wnieść rewolucję w szybkości i możliwościach połączeń internetowych, umożliwiając szeroko dostępne, ultrawysokie prędkości przesyłu danych oraz niskie opóźnienia. Dla rozwoju domen internetowych oznacza to kilka rzeczy:
 
 #### Większe możliwości IoT
@@ -134,6 +136,8 @@ Większe prędkości i zasięg mogą stworzyć popyt na nowe rodzaje serwisów o
 #### Wirtualna i rozszerzona rzeczywistość
 Zwiększone prędkości i mniejsze opóźnienia sieciowe są kluczowe dla rozwoju technologii VR (Virtual Reality) i AR (Augmented Reality), co może prowadzić do wzrostu popytu na domeny związane z tymi technologiami.
   
+
+
 
 
 
@@ -221,14 +225,43 @@ Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologi
 
 ### Kolejne warstwy infrastruktury
 
-Dziś:
+
+Poniżej przedstawiam sposób, w jaki można zobrazować opisaną infrastrukturę za pomocą notacji Mermaid. Diagram przedstawia uproszczone podejście do ewolucji infrastruktury od obecnej struktury "Numer -> domena -> Certyfikat" do przyszłej struktury, w której domena prywatna providera 5G/6G odgrywa rolę pośrednika przed dotarciem do domeny publicznej i kolejnych certyfikatów:
+
+### Infrastruktura:
+
 
     Numer -> domena -> Certyfikat
+    
+```mermaid
+graph TD;
+    A[Numer] --> B[Domena]
+    B --> C[Certyfikat]
+```
 
-W przyszłości:
+### Infrastruktura przyszłości:
+
 
 
     Numer -> domena prywatna providera 5G/6G -> Certyfikat -> domena publiczna -> Certyfikat
+    
+```mermaid
+graph TD;
+    A[Numer] --> B[Domena prywatna providera 5G/6G]
+    B --> C[Certyfikat dla domeny prywatnej]
+    C --> D[Domena publiczna]
+    D --> E[Certyfikat dla domeny publicznej]
+```
+
+### Wyjaśnienie:
+
+- W obecnej infrastrukturze, pojęcie "Numer" oznacza punkt startowy, który może być dowolnym identyfikatorem użytkownika lub urządzenia. Ten numer jest następnie przyporządkowany do konkretnej domeny, dla której wydawany jest certyfikat potwierdzający jej tożsamość.
+
+- W przyszłości, z użyciem technologii 5G/6G, możliwe staje się dodanie warstwy "Domena prywatna providera", co wprowadza dodatkowy poziom zarządzania i bezpieczeństwa przed uzyskaniem dostępu do publicznej domeny internetowej. Certyfikaty są wydawane dla obu poziomów domen (prywatnej i publicznej) celem zapewnienia zabezpieczeń na każdym etapie przekierowań.
+
+Ta ewolucja w strukturze infrastruktury odzwierciedla rosnącą złożoność i zapotrzebowanie na dodatkowe warstwy bezpieczeństwa w komunikacji internetowej, szczególnie w kontekście rosnącej integracji technologii mobilnych 5G/6G oraz IoT (Internet of Things).
+
+
 
 
 
