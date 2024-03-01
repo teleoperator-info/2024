@@ -202,6 +202,8 @@ Obydwa podejścia odpowiadają na potrzebę szybszego dostarczania oprogramowani
 
 
 
+
+
 ## Zaprzepaszczone Szanse
 
 Warto zauważyć, że te "zaprzepaszczone szanse" nie są jednoznacznie stratami; są one raczej oznaką ewolucji technologii i preferencji użytkowników, jak również adaptacyjności systemu DNS do rosnących wymagań bezpieczeństwa i funkcjonalności. Ponadto, bardziej zaawansowane technologie, takie jak wspomniane blockchainy, mogą oferować nowe sposoby realizacji tych idei, potencjalnie przezwyciężając ograniczenia, które uniemożliwiły ich pełne wdrożenie w przeszłości.
@@ -255,6 +257,7 @@ Większe prędkości i zasięg mogą stworzyć popyt na nowe rodzaje serwisów o
 #### Wirtualna i rozszerzona rzeczywistość
 Zwiększone prędkości i mniejsze opóźnienia sieciowe są kluczowe dla rozwoju technologii VR (Virtual Reality) i AR (Augmented Reality), co może prowadzić do wzrostu popytu na domeny związane z tymi technologiami.
   
+
 
 
 
@@ -327,6 +330,8 @@ Nowe prawa i regulacje dotyczące internetu, prywatności danych oraz cyfrowych 
 
 
 ## Najnowsze Technologie i Bezpieczeństwo 
+
+![obraz](https://github.com/askdomainer/2024/assets/5669657/a6ca30fd-1e84-4380-b649-28831f54eee3)
 
 
 Zakup własnej domeny internetowej do infrastruktury, zwłaszcza w kontekście rozwiniętych sieci oraz systemów Human-to-Machine (H2M) działających na sieciach 5G i 6G, może przynieść wiele korzyści oraz ułatwień. 
