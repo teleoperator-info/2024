@@ -1,4 +1,4 @@
-# 2024.askdomainer.com
+# [2024.askdomainer.com](https://2024.askdomainer.com/)
 
 Zrozumienie rynku domen w roku 2024 nie jest łatwe, raport [AskDomainer](https://2024.askdomainer.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
 - Jak zmieniał się rynek domen w ostatniej dekadzie?
