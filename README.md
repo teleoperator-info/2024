@@ -357,7 +357,8 @@ Choć technicznie możliwe jest projektowanie i używanie systemów H2M oraz imp
 
 ## Interfejs
 
-![Uploading obraz.png…]()
+![Screenshot from 2024-03-01 22-48-26](https://github.com/askdomainer/2024/assets/5669657/82c98e05-b1ad-443e-9a79-e66c43cd0de6)
+
 
 
 Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interfejsu i sposobem, w jaki użytkownicy lub systemy mają dostęp do zasobów cyfrowych. Interfejsy, które ułatwiają bezpośrednią, łatwą i często publiczną interakcję, zazwyczaj korzystają na posiadaniu własnych, łatwych do zapamiętania domen internetowych. W przeciwieństwie do tego, niektóre interfejsy mogą funkcjonować efektywnie bez domen, polegając na innych metodach identyfikacji lub lokalnym dostępie. Oto analiza obu scenariuszy:
