@@ -1,3 +1,5 @@
+![obraz](https://github.com/askdomainer/2024/assets/5669657/4dd9ca37-97b8-4975-9fef-1c5009605993)
+
 # [2024.askdomainer.com](https://2024.askdomainer.com/)
 
 Zrozumienie rynku domen w roku 2024 nie jest łatwe, raport [AskDomainer](https://2024.askdomainer.com/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
