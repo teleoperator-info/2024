@@ -114,13 +114,13 @@ Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włą
 #### FaaS (Function as a Service)
 
 
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Deweloper] --> |Tworzy funkcję| B[Funkcja]
     B --> |Wyzwalacz zdarzeń| C{FaaS}
     C --> |Automatyczne skalowanie| D[Chmura]
     D --> |Zarządzanie infrastrukturą| E[Serverless]
-</pre>
+```
 
 
 **FaaS**, znane również jako bezserwerowa architektura (serverless computing), to model pośredni między SaaS a PaaS. Umożliwia uruchamianie fragmentów kodu (funkcji) w odpowiedzi na zdarzenia, bez konieczności zarządzania serwerami lub infrastrukturą aplikacji. 
@@ -268,6 +268,10 @@ Zwiększone prędkości i mniejsze opóźnienia sieciowe są kluczowe dla rozwoj
 
 
 ## Przyczyny spadku wartości domen internetowych
+
+
+![obraz](https://github.com/askdomainer/2024/assets/5669657/fe707a5c-8dc4-45c2-8861-c9cff7660339)
+
 
 Mimo potencjalnych zalet, kilka czynników ograniczyło szerokie przyjęcie domen internetowych w tych kontekstach:
 
@@ -425,7 +429,7 @@ Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologi
 
 #### Wzrost znaczenia domen internetowych
 
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[2023] --> B[Wybrane przez przedsiębiorstwa]
     A --> C[Stworzone dla zabezpieczeń danych]
@@ -436,7 +440,7 @@ graph TD;
     E --> H[Potrzeba ochrony znaków towarowych online]
     F --> I[Wzmocnione zaufanie klientów]
     G --> J[Łatwiejsza komunikacja z urządzeniami]
-</pre>
+```
 
 
 ### Kolejne warstwy infrastruktury
@@ -449,11 +453,11 @@ Poniżej przedstawiam sposób, w jaki można zobrazować opisaną infrastruktur�
 
     Numer -> domena -> Certyfikat
     
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Numer] --> B[Domena]
     B --> C[Certyfikat]
-</pre>
+```
 
 ### Infrastruktura przyszłości:
 
@@ -461,13 +465,13 @@ graph TD;
 
     Numer -> domena prywatna providera 5G/6G -> Certyfikat -> domena publiczna -> Certyfikat
     
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Numer] --> B[Domena prywatna providera 5G/6G]
     B --> C[Certyfikat dla domeny prywatnej]
     C --> D[Domena publiczna]
     D --> E[Certyfikat dla domeny publicznej]
-</pre>
+```
 
 ### Wyjaśnienie:
 
@@ -501,7 +505,7 @@ Technologie blockchain i zdecentralizowane systemy identyfikacji mogą zmienić 
 
 #### Rozwój i dywersyfikacja domen TLD
 
-<pre class="mermaid">
+```mermaid
 graph LR;
     A[Rozwój sieci 5G,6G] --> B[Wzrost IoT i urządzeń połączonych]
     A --> C[Innowacje technologiczne]
@@ -511,7 +515,7 @@ graph LR;
     E --> G[.health dla opieki zdrowotnej]
     E --> H[.crypto dla kryptowalut]
     F --> I[Zwiększona kontrola użytkowników nad prywatnością]
-</pre>
+```
 
 
 ### Domeny jako kluczowy element strategii SEO
@@ -519,7 +523,7 @@ Optymalizacja pod kątem wyszukiwarek (SEO) będzie nadal kluczowym elementem st
 
 #### Zmiany w SEO i wartości domen
 
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Wzrost znaczenia SEO] --> B[Wysoka wartość EMD - Exact Match Domains]
     A --> C[Adaptacja do zmian algorytmów wyszukiwarek]
@@ -528,7 +532,7 @@ graph TD;
     C --> F[Content Marketing]
     E --> G[Optymalizacja dla mobilnych i szybkich stron]
     F --> H[Zrozumienie i wykorzystanie intencji użytkownika]
-</pre>
+```
 
 ### Zwiększone zapotrzebowanie na zabezpieczenia domen
 Wzrost cyberzagrożeń wpłynie na popyt usług związanych z bezpieczeństwem domen, takie jak zabezpieczenia przed kradzieżami domen, zaawansowane zarządzanie certyfikatami SSL/TLS, czy ochrona prywatności danych właściciela domeny.
@@ -542,7 +546,7 @@ Skomplikowanie prawne może wpłynąć na rynek domen, wymuszając na biznesach 
 
 #### Bezpieczeństwo i regulacje domen
 
-<pre class="mermaid">
+```mermaid
 graph TD;
     A[Regulacje prawne] --> B[Ochrona danych osobowych]
     A --> C[Zabezpieczenia przed cyberatakami]
@@ -550,7 +554,7 @@ graph TD;
     B --> E[Wprowadzenie RODO i podobnych regulacji na świecie]
     C --> F[Zastosowanie zaawansowanych technologii szyfrowania]
     D --> G[Ścisła współpraca z rejestratorami domen]
-</pre>
+```
 
 
 
