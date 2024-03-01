@@ -63,6 +63,15 @@ Każde z nich opisuje inne podejście do dostarczania usług i tworzenia infrast
 
 #### SaaS (Software as a Service)
 
+
+```mermaid
+graph TD;
+    A[Użytkownik] -->|Dostęp przez przeglądarkę| B[Oprogramowanie SaaS]
+    B -->|Zarządzanie/licencje/subskrypcje| C{Serwer SaaS}
+    C -->|Oprogramowanie jako usługa| D[Chmura]
+    C -->|Dane| E[Baza danych]
+```
+
 Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez internet. Użytkownicy subskrybują usługę, najczęściej na zasadzie miesięcznej lub rocznej opłaty, zamiast kupować i instalować oprogramowanie na własnych komputerach.
 
 **Korzyści:**
@@ -75,6 +84,16 @@ Model **SaaS** polega na dostarczaniu gotowego oprogramowania jako usługi przez
 
 
 #### PaaS (Platform as a Service)
+
+
+```mermaid
+graph TD;
+    A[Deweloper] --> |Tworzy aplikację| B[Aplikacja]
+    B -->|Wdrażanie| C{Platforma PaaS}
+    C -->|System operacyjny| D[Chmura]
+    C -->|Środowisko wykonawcze| E[Chmura]
+    C -->|Baza danych| F[Chmura]
+```
 
 Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włączając w to system operacyjny, środowisko wykonawcze języka programowania, bazę danych, i narzędzia deweloperskie. Pozwala to deweloperom na tworzenie, wdrażanie i zarządzanie aplikacjami bez martwienia się o infrastrukturę podstawową.
 
@@ -89,6 +108,15 @@ Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włą
 
 #### FaaS (Function as a Service)
 
+
+```mermaid
+graph TD;
+    A[Deweloper] --> |Tworzy funkcję| B[Funkcja]
+    B --> |Wyzwalacz zdarzeń| C{FaaS}
+    C --> |Automatyczne skalowanie| D[Chmura]
+    D --> |Zarządzanie infrastrukturą| E[Serwer bezserwerowy]
+```
+
 **FaaS**, znane również jako bezserwerowa architektura (serverless computing), to model pośredni między SaaS a PaaS. Umożliwia uruchamianie fragmentów kodu (funkcji) w odpowiedzi na zdarzenia, bez konieczności zarządzania serwerami lub infrastrukturą aplikacji. 
 
 **Korzyści:**
@@ -97,7 +125,6 @@ Model **PaaS** dostarcza kompletną platformę programistyczną w chmurze, włą
 - **Optymalizacja kosztów**: Płacisz tylko za czas wykonania twoich funkcji, nie za nieużywane serwery.
 
 **Przykłady**: AWS Lambda, Azure Functions, Google Cloud Functions.
-
 
 
 
