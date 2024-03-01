@@ -288,7 +288,7 @@ graph TD;
 
 ```mermaid
 graph LR;
-    A[Rozwój sieci 5G/6G] --> B[Wzrost IoT i urządzeń połączonych]
+    A[Rozwój sieci 5G,6G] --> B[Wzrost IoT i urządzeń połączonych]
     A --> C[Innowacje technologiczne]
     B --> D[Nowe generyczne TLDs]
     C --> E[Specjalistyczne branże]
