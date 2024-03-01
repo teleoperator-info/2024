@@ -114,8 +114,9 @@ graph TD;
     A[Deweloper] --> |Tworzy funkcję| B[Funkcja]
     B --> |Wyzwalacz zdarzeń| C{FaaS}
     C --> |Automatyczne skalowanie| D[Chmura]
-    D --> |Zarządzanie infrastrukturą| E[Serwer bezserwerowy]
+    D --> |Zarządzanie infrastrukturą| E[Serverless]
 ```
+
 
 **FaaS**, znane również jako bezserwerowa architektura (serverless computing), to model pośredni między SaaS a PaaS. Umożliwia uruchamianie fragmentów kodu (funkcji) w odpowiedzi na zdarzenia, bez konieczności zarządzania serwerami lub infrastrukturą aplikacji. 
 
@@ -125,6 +126,72 @@ graph TD;
 - **Optymalizacja kosztów**: Płacisz tylko za czas wykonania twoich funkcji, nie za nieużywane serwery.
 
 **Przykłady**: AWS Lambda, Azure Functions, Google Cloud Functions.
+
+
+
+#### Chmura (Cloud Computing)
+
+Chmura, czyli cloud computing, to model dostarczania różnorodnych usług IT poprzez internet. Usługi te mogą obejmować serwery, przechowywanie danych, bazy danych, sieci, oprogramowanie, analitykę i inteligencję. Chmura umożliwia firmom unikanie kosztów i złożoności związanych z zakupem i konserwacją własnej infrastruktury IT. Cloud computing można podzielić na trzy główne kategorie usług: Infrastructure as a Service (IaaS), Platform as a Service (PaaS) i Software as a Service (SaaS).
+
+**Kluczowe korzyści chmury:**
+
+- **Elastyczność i skalowalność:** łatwa dostosowanie zasobów IT do aktualnych potrzeb.
+- **Koszty:** potencjał zmniejszenia wydatków operacyjnych dzięki modelowi płatności za faktyczne użycie.
+- **Dostępność:** dostęp do aplikacji i danych z dowolnego miejsca na świecie.
+- **Efektywność:** szybsze wdrożenia nowych aplikacji i usług.
+
+
+#### Serverless (Bezserwerowa architektura)
+
+Serverless, czyli architektura bezserwerowa, jest modelem wykonania w chmurze, w którym dostawca chmury zarządza uruchamianiem kodu aplikacji przez alokowanie zasobów obliczeniowych na żądanie. To eliminuje potrzebę ciągłego i aktywnego zarządzania serwerami przez deweloperów. Jednak nie oznacza to, że serwery fizycznie nie istnieją; oznacza to raczej, że zajmowanie się nimi nie jest już problemem deweloperów.
+
+**Kluczowe korzyści serverless:**
+
+- **Brak zarządzania serwerami:** Infrastruktura jest abstrahowana.
+- **Płatność za rzeczywiste użycie:** Opłaty są naliczane tylko wtedy, gdy kod jest wykonywany.
+- **Automatyczne skalowanie:** Aplikacje są skalowane automatycznie w zależności od zapotrzebowania.
+
+
+#### Jak Serverless Wiąże Się z Chmurą?
+
+"Serverless" i "chmura" to dwa terminy, które często pojawiają się razem, ale odnoszą się do różnych aspektów technologii obliczeniowych. Chociaż oba koncepty są ze sobą powiązane, mają unikalne cechy i służą różnym celom w ekosystemie IT. Oto przegląd tych dwóch pojęć i jak się ze sobą łączą:
+
+
+Serverless to model dostarczania usług, który jest ściśle powiązany z cloud computing. Jest wręcz rodzajem "produktu" oferowanego w ramach usług chmury. Dzięki technologii cloud dostawca usług (np. AWS, Azure, Google Cloud) może oferować rozwiązania serverless, takie jak AWS Lambda, które umożliwiają uruchamianie kodu bez konieczności zarządzania infrastrukturą serwerową.
+
+W dużym uproszczeniu można powiedzieć, że "chmura" dostarcza szeroki zakres usług obliczeniowych przez internet, a "serverless" jest jednym z modeli korzystania z tych usług, koncentrującym się na automatyzacji zarządzania infrastrukturą i optymalizacji kosztów.
+
+
+
+#### No Code
+
+"No Code" to podejście, w którym tworzenie aplikacji odbywa się całkowicie bez pisania jakiegokolwiek kodu. Zamiast tradycyjnego kodowania, wykorzystuje się graficzne interfejsy użytkownika z funkcjami przeciągnij-i-upuść (drag-and-drop), aby tworzyć logikę i funkcjonalności aplikacji. Ta metodyka otwiera drzwi dla nieprogramistów, tzw. "obywatelskich deweloperów" (citizen developers), do szybkiego tworzenia aplikacji dopasowanych do ich potrzeb.
+
+**Korzyści:**
+
+- **Szybszy rozwój:** Umożliwia szybkie prototypowanie i iterowanie aplikacji.
+- **Niskie koszty startupowe:** Zmniejsza barierę wejściową dla małych firm i przedsiębiorców, którzy chcą szybko wprowadzić swoje pomysły w życie.
+- **Demokratyzacja tworzenia oprogramowania:** Umożliwia osobom bez tła technicznego projektowanie i tworzenie aplikacji.
+
+
+#### Low Code
+
+"Low Code" to podejście, które wciąż wymaga pewnej minimalnej ilości pisania kodu, ale znacząco ogranicza jego ilość poprzez korzystanie z gotowych bloków funkcjonalnych i graficznych edytorów. Pozwala to na szybsze tworzenie aplikacji, jednocześnie oferując większą elastyczność i kontrolę niż podejście "No Code".
+
+**Korzyści:**
+
+- **Większa elastyczność:** Deweloperzy mają więcej kontroli nad aplikacją i mogą dostosować kod, gdzie jest to potrzebne.
+- **Przyspieszony rozwój:** Podobnie jak "No Code", umożliwia szybsze dostarczanie aplikacji dzięki wykorzystaniu elementów wizualnego programowania.
+- **Łatwiejsze zarządzanie:** Aplikacje "Low Code" mogą być łatwiej zarządzane i utrzymywane dzięki zastosowaniu standardowych komponentów.
+
+
+#### Porównanie "No Code" i "Low Code"
+
+Chociaż "No Code" i "Low Code" wydają się podobne, kluczowa różnica polega na ich celu i publiczności docelowej. "No Code" jest raczej skierowane do osób bez żadnego doświadczenia programistycznego, umożliwiając im tworzenie prostych do średnio skomplikowanych aplikacji. "Low Code", z kolei, celuje w profesjonalnych deweloperów, dając im narzędzia, które przyspieszają rozwój aplikacji, ale też pozwalają na niestandardowe dostosowania tam, gdzie są one potrzebne.
+
+Obydwa podejścia odpowiadają na potrzebę szybszego dostarczania oprogramowania w dynamicznie zmieniającym się świecie technologii i biznesu, oferując jednocześnie nowe możliwości dla przedsiębiorców, deweloperów oraz organizacji rozmaitych rozmiarów.
+
+
 
 
 
