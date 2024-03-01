@@ -2,6 +2,11 @@ theme: jekyll-theme-minimal
 title: Raport rynku domen na rok 2024
 description: Jak zmieniał się rynek domen w ostatniej dekadzie? Jak zmieni się rynek do roku 2023?
 mermaid:
-  src: 'mermaid.js'
+  src: "mermaid.js"
 plugins:
   - "jekyll-github-metadata"  
+  - "jekyll-readme-index"
+readme_index:
+  enabled:          true
+  remove_originals: false
+  with_frontmatter: false
