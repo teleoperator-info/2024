@@ -1,4 +1,4 @@
-![Screenshot from 2024-03-01 22-55-40](https://github.com/askdomainer/2024/assets/5669657/36d5033b-6078-4b15-9b65-c4287ff29b67)
+
 
 
 # [www.teleoperator.info](https://www.teleoperator.info/)
