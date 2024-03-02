@@ -617,6 +617,39 @@ Do roku 2030 rynek domen może stać się bardziej zróżnicowany, z większym n
 
 
 
+
+## Wywiad z inżynierem IoT
+
+Na koniec raportu chciałbym tylko uzupełnić mój punkt widzenia z osobą, która działa na co dzień z infrastrukturą IoT/edge computing.
+Poniższa rozmowa została przeprowadzona za pomocą komunikatora i ze względu prywatności naziwsko Inżyniera Embedded zostały ukryte.
+Wniosek z rozmowy jest taki, że środowisko IoT naprawdę zmienia nasze podejście do komunikacji w internecie.
+
+
+**AskDomainer:** 
+Jak w praktyce wygląda komunikacja między tymi urządzeniami?
+
+**Maciej:**
+Wiele urządzeń IoT, w rzeczywistości, nie wykorzystuje tradycyjnych domen internetowych do komunikacji. 
+Zamiast tego, stosują specjalne protokoły komunikacyjne opracowane z myślą o IoT, które są bardziej efektywne i dostosowane do ich potrzeb.
+
+**AskDomainer:** 
+Ciekawe, czy mógłbyś podać przykład takiej komunikacji?
+
+**Maciej:**
+Wyobraź sobie, że mamy serwer oraz urządzenia IoT. 
+Urządzenia te, zamiast komunikować się bezpośrednio między sobą, zazwyczaj odzywają się do serwera po nazwie domenowej. 
+Bezpośrednia komunikacja między urządzeniami jest rzadkością i jeśli już, to wykorzystują do tego celu protokoły takie jak mDNS czy Bonjour, głównie w sieci lokalnej.
+
+**AskDomainer:** 
+A co sądzisz o twierdzeniu, że domeny umierają, zwłaszcza w kontekście IoT?
+
+**Maciej:**
+To interesująca kwestia. Nie powiedziałbym, że domeny "umierają", ale zdecydowanie następuje zmiana w sposobie ich wykorzystania. 
+Dla wielu celów, szczególnie w przypadku urządzeń IoT, szybsze, tańsze i prostsze może okazać się publikowanie treści w mediach społecznościowych albo korzystanie z usług typu wyszukiwarki, niż tradycyjne zarządzanie hostingiem.
+
+
+
+
 ---
 
 
