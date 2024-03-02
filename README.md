@@ -174,11 +174,29 @@ Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interf
 
 
 
-## Przyszłość rynku domen do roku 2030
+## Przyszłość rynku rozpoznawania obiektów do roku 2030
 
 Przewidywanie przyszłego rozwoju rynku domen do roku 2030 należy wziąć pod uwagę dynamikę technologii i zmieniające się preferencje użytkowników. 
 Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologicznej, można wysnuć pewne przypuszczenia:
 
+
+
+
+1. **MarketsandMarkets** – Jest to firma analityczna oferująca raporty rynkowe w wielu sektorach, w tym w obszarze technologii bezpieczeństwa i monitoringu.
+
+2. **Grand View Research** – Ta firma również specjalizuje się w analizach rynkowych i często publikuje raporty dotyczące rynku kamer bezpieczeństwa, identyfikacji wizualnej i technologii pokrewnych.
+
+3. **Research and Markets** – Na tej platformie można znaleźć szeroki zakres raportów na temat różnych technologii, w tym również systemów bezpieczeństwa i monitoringu wizyjnego.
+
+4. **Statista** – Serwis oferujący dostęp do danych statystycznych i rynkowych z różnych sektorów, w tym z rynku kamer i systemów monitoringu.
+
+5. **TechSci Research** – Koncentruje się na dostarczaniu szczegółowych analiz i prognoz rynkowych z różnych branż technologicznych.
+
+6. **Frost & Sullivan** – Firma doradztwa strategicznego, która publikuje raporty rynkowe, w tym analizy rynku systemów monitoringu i bezpieczeństwa. 
+
+7. **IPVM** – Strona oferuje nie tylko analizy i raporty rynkowe, ale również testy produktów i porównania w dziedzinie monitoringu wideo i bezpieczeństwa.
+
+Aby uzyskać dostęp do najnowszych raportów i analiz, warto odwiedzić strony tych firm i poszukać konkretnych raportów na temat rynku kamer, rejestratorów i technologii identyfikacji wizualnej. Zazwyczaj wymagane jest zakupienie dostępu do pełnych raportów, choć często można znaleźć streszczenia lub ograniczone wersje dostępne za darmo.
 
 
 
@@ -208,26 +226,16 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js"></script>
-<script>
-var config = {
+<script type="module">    
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
+  //import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10.8.0/dist/mermaid.min.js';
+  mermaid.initialize({
     startOnReady:true,
     theme: 'forest',
     flowchart:{
             useMaxWidth:false,
             htmlLabels:true
         }
-};
-mermaid.initialize(config);
-mermaid.init(undefined, '.language-mermaid');
-</script>
-
-<script type="module">
-    /**
-  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@10/dist/mermaid.esm.min.mjs';
-  mermaid.initialize({
-    startOnLoad: true,
-    theme: 'dark'
   });
-  */
+  mermaid.init(undefined, '.language-mermaid');
 </script>
