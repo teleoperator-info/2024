@@ -9,13 +9,13 @@ w roku 2024 nie jest łatwe, [teleoperator](https://www.teleoperator.info/) słu
 
 W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury monitoringu, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
 Dokument skupia się na fundamentach i konsekwencjach, w której prywatna infratsruktura 5G/6G odgrywa kluczową rolę.
-Raport systemów rozpoznawnaia obiektów dla systów monitorowania CCTV z wykorzystaniem edge computing z przeetwarzaniem LLM obiektów.
+Raport systemów rozpoznawnaia obiektów dla systów monitorowania CCTV z wykorzystaniem edge computing z przetwarzaniem LLM obiektów.
 Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
 
 
 ### Udostępnij w Social Mediach:
 
-Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią świat domen internetowych? 🌐💡
+Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią nasz świat z użyciem systemów detekcji obiektów? 🌐💡
 Sprawdź nasz najnowszy raport ➡️ [Raport Teleoperator.info](https://www.teleoperator.info/)
 **📢 Zapraszam wszystkich zainteresowanych branżą monitoringu i technologii bezpieczeństwa! 📷🔒**
 #monitorowanie #Innowacje #WizjaKomputerowa #5G #6G #CCTV #AI #Bezpieczeństwo #Cyberbezpieczeństwo 
