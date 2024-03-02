@@ -1,7 +1,7 @@
 ![Screenshot from 2024-03-01 22-55-40](https://github.com/askdomainer/2024/assets/5669657/36d5033b-6078-4b15-9b65-c4287ff29b67)
 
 
-# [2024.Report.AskDomainer.com](https://2024.report.askdomainer.com/)
+# [www.teleoperator.info](https://www.teleoperator.info/)
 
 Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
 w roku 2024 nie jest łatwe, [raport AskDomainer](https://report.teleoperator.info/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
