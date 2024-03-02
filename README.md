@@ -639,6 +639,9 @@ Ciekawe, czy mógłbyś podać przykład takiej komunikacji?
 Wyobraź sobie, że mamy serwer oraz urządzenia IoT. 
 Urządzenia te, zamiast komunikować się bezpośrednio między sobą, zazwyczaj odzywają się do serwera po nazwie domenowej. 
 Bezpośrednia komunikacja między urządzeniami jest rzadkością i jeśli już, to wykorzystują do tego celu protokoły takie jak mDNS czy Bonjour, głównie w sieci lokalnej.
+Mechanizmy discovery, komunikacji bezpośrednio między urządzeniami istnieją choćby to zigbee.
+Urządzenia bateryjne, służą często jako punkt, który zbiera dane telemetryczne pakowanie, implementacja interfejsów, protokołów na poziomie urządzeń embedded jest "overkillem" i dlatego stosuje się alternatywne protokoły.
+
 
 **AskDomainer:** 
 A co sądzisz o twierdzeniu, że domeny umierają, zwłaszcza w kontekście IoT?
