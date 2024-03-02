@@ -1,6 +1,7 @@
 
 
 # [www.teleoperator.info](https://www.teleoperator.info/)
+Raport na rok 2024 z wykorzystania detekcji obiektów w systemach wizyjnych.
 
 Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
 w roku 2024 nie jest łatwe, [teleoperator](https://www.teleoperator.info/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
