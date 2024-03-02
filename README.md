@@ -460,6 +460,21 @@ Do roku 2030 systemów wizyjnych może stać się bardziej zróżnicowany, z wi�
 Adaptacja do zmieniającego się środowiska technologicznego i regulacyjnego będzie niezbędna dla podmiotów działających na tym rynku.
 
 
+### Inspirujacy artykuł
+[China's New AI 'Supermind' Deepens Challenge to U.S.](https://www.newsweek.com/china-us-conflict-artificial-intelligence-espionage-struggle-ai-computer-science-1873990)
+Chiny budują ogromną platformę wywiadowczą opartą na sztucznej inteligencji o nazwie „Supermind” w celu śledzenia milionów naukowców i badaczy na całym świecie, aby mogła wydobyć przełomowe technologie dla przemysłu i wojska.
+
+Finansowana przez państwo platforma, która twierdzi, że wykorzystuje zaawansowane systemy sztucznej inteligencji do wyszukiwania talentów dla Chin, jest w budowie w nowym centrum „informacji i wywiadu”, które rozpoczęło pracę w zeszłym roku w południowym centrum technologicznym Shenzhen. W mieście działają globalne marki technologiczne, takie jak Huawei, ZTE i Tencent – z których niektóre zostały nałożone przez rząd USA sankcje ze względów bezpieczeństwa narodowego i praw człowieka.
+
+Próba ta, ujawniona przez Newsweek, została nazwana „Supermind” przez kontrolowaną przez państwo gazetę Shenzhen Special Zone Daily i fundusz uniwersytecki Aminer powiązany z Uniwersytetem Tsinghua, który oferuje na ten cel stypendia. Według osoby posiadającej bliską wiedzę na temat projektu, 280 milionów dolarów zainwestowanych głównie przez rząd Shenzhen stanowi krok w wysiłkach Chin zmierzających do wygrania globalnej konkurencji technologicznej ze Stanami Zjednoczonymi. Chiński przywódca Xi Jinping powiedział, że Chiny muszą stać się „wielką potęgą w nauce i technologii” i osiągnąć ogólną pozycję światową do 2049 r.
+
+„Budują bazę danych „Kto jest kim” w różnych obszarach” – powiedziała osoba posiadająca wiedzę na temat projektu, która ze względu na wrażliwość wypowiadała się pod warunkiem zachowania anonimowości. „Możesz na przykład zapytać: «Potrzebuję pięciu konkretnych ekspertów w tej dziedzinie, którzy są największymi talentami». Następnie podejdź do nich wszystkich” – powiedziała osoba.
+
+Zwycięstwo w wyścigu o technologie zmieniające świat, takie jak sztuczna inteligencja, obliczenia kwantowe i półprzewodniki, może określić przyszłą międzynarodową równowagę sił, twierdzą analitycy geopolityczni i eksperci ds. technologii.
+
+Nowa platforma, będąca centralnym elementem Międzynarodowego Centrum Informacji Naukowo-Technologicznej (ITIC) w Shenzhen, twierdzi, że zaoferuje użytkownikom 300 milionów globalnych artykułów naukowych i technologicznych oraz 120 milionów patentów, a także zlokalizuje 130 milionów globalnych naukowców lub „ ludzkich talentów”, aby dokładnie przeanalizować ich pracę w najdrobniejszych szczegółach i wykorzystać ją — czy to poprzez zatrudnienie ich, czy w inny sposób. System będzie stale aktualizowany. Obejmie w swoich sieciach sąsiednie miasta Hongkong i Makau, ale będą mogły z niego korzystać tylko osoby posiadające adres IP w Shenzhen.
+
+
 
 ---
 
