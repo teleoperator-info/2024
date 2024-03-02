@@ -2,11 +2,11 @@
 
 
 
-# [www.teleoperator.info](https://www.teleoperator.info/)
+# [2024.teleoperator.info](https://2024.teleoperator.info/)
 Teleoperator.info to raport na rok 2024 o potencjale detekcji obiektów w systemach wizyjnych.
 
 Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
-w roku 2024 nie jest łatwe, [teleoperator](https://www.teleoperator.info/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
+w roku 2024 nie jest łatwe, [teleoperator](https://2024.teleoperator.info/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
 - Jak zmieniał się rynek systemów wizyjnych w zastosowaniach przemysłowych w ostatniej dekadzie?
 - Jak zmieni się rynek do roku 2030?
 
@@ -20,7 +20,7 @@ Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze 
 
 Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią nasz świat z użyciem systemów detekcji obiektów? 🌐💡
 
-Sprawdź mój najnowszy raport ➡️ www.teleoperator.info 
+Sprawdź mój najnowszy raport ➡️ 2024.teleoperator.info 
 📢 Zapraszam wszystkich zainteresowanych branżą monitoringu 📷🔒 
 
 1. Specjalistów ds. bezpieczeństwa: Dowiedz się, jak najnowsze trendy i innowacje mogą zwiększyć skuteczność systemów monitoringu w Twojej organizacji. 
