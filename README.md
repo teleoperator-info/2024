@@ -115,6 +115,8 @@ graph LR;
 Podsumowując, rynek systemów rozpoznawania obiektów dla monitoringu CCTV ewoluuje w kierunku coraz większej integracji z zaawansowanymi technologiami AI, zwłaszcza z wykorzystaniem przetwarzania LLM oraz edge computing. Mimo wyzwań, takich jak cyberbezpieczeństwo czy regulacje prawne, przyszłość zapowiada się obiecująco pod kątem możliwości jakie niosą te innowacje.
 
 
+
+
 ### Dyskusja
 
 + [askdomainer/2024 · Discussion #1](https://github.com/askdomainer/2024/discussions/1)
@@ -136,35 +138,133 @@ Wykorzystanie domen internetowych w komunikacji między ludźmi (H2H - Human-to-
 
 
 
-
-
-
-
-
-## Zaprzepaszczone Szanse
-
-
-
-
-
-
-## Przyczyny spadku wartości domen internetowych
-
-
-
 ## Najnowsze Technologie i Bezpieczeństwo 
 
+### Branża
+
+Branża monitoringu stale ewoluuje, poniżej lista najnowszych trendów, trendy mogą się zmieniać w zależności od postępu technologicznego i potrzeb rynku.
+
+1. **Inteligentne kamery i analiza w czasie rzeczywistym**:
+    - Kamery wyposażone w zaawansowane algorytmy sztucznej inteligencji (AI) mogą wykrywać nieprawidłowości, takie jak nieautoryzowany dostęp lub zachowanie podejrzanej osoby. Analiza w czasie rzeczywistym pozwala na szybką reakcję na potencjalne zagrożenia.
+
+2. **Rozpoznawanie obiektów i twarzy**:
+    - Systemy rozpoznawania obiektów wizualnych stają się coraz bardziej precyzyjne. Mogą identyfikować konkretne obiekty, pojazdy, a nawet osoby na podstawie cech twarzy.
+
+3. **Rozwój technologii 5G**:
+    - Szybkie połączenia 5G umożliwiają przesyłanie dużej ilości danych z kamer do centrów monitoringu. To przyspiesza reakcję na incydenty.
+
+4. **Kamery termowizyjne i widzenie nocne**:
+    - Kamery termowizyjne pozwalają na wykrywanie ciepła emitowanego przez obiekty, co jest przydatne w nocy lub w trudnych warunkach oświetleniowych.
+
+5. **Cyberbezpieczeństwo**:
+    - W miarę jak systemy monitoringu stają się bardziej zintegrowane z sieciami komputerowymi, ważne jest zabezpieczenie ich przed atakami hakerów i naruszeniami prywatności.
+
+6. **Integracja z innymi systemami**:
+    - Monitorowanie może być bardziej efektywne, gdy jest zintegrowane z systemami kontroli dostępu, alarmowymi i zarządzania budynkiem.
 
 
 
 
-## Interfejs
+
+
+## Systemy identyfikacji
+
+
+
+Wąskim gardłem systemów monitoringu jest człowiek niezbędny do komunikacji z innymi jednostkami organizacji oraz wydająca dezycję o prawach dostępu.
+Systemy, które ułatwiają bezpośrednią, łatwą i bezpieczną interakcję typu H2M mogą funkcjonować efektywniej, polegając na innych metodach identyfikacji lub lokalnym dostępie. 
+
+
+
+Zgadza się, **bezpośrednia interakcja typu H2M** (czyli interakcja między człowiekiem a maszyną) jest kluczowym aspektem w systemach monitoringu. Oto kilka możliwych kombinacji rozwiązań i systemów, które mogą pomóc w automatyzacji i efektywności:
+
+1. **Rozpoznawanie obiektów i interakcji**:
+    - Wykorzystanie zaawansowanych algorytmów rozpoznawania obiektów i ruchu może pomóc w identyfikacji podejrzanych działań. Przykłady projektów opensource:
+        - **YOLO (You Only Look Once)**: Szybki i dokładny model do wykrywania obiektów w czasie rzeczywistym ¹.
+        - **OpenCV**: Biblioteka do przetwarzania obrazów, która zawiera wiele narzędzi do analizy obrazów i wykrywania obiektów ².
+
+2. **Biometryczne metody identyfikacji**:
+    - Wykorzystanie cech biometrycznych, takich jak odciski palców, rozpoznawanie twarzy lub tęczówki oka, może pomóc w bezpiecznym dostępie. Przykłady projektów opensource:
+        - **OpenBR**: Platforma do analizy biometrycznej, obejmująca wiele algorytmów rozpoznawania twarzy i innych cech ³.
+        - **FingerJetFX**: Narzędzie do przetwarzania odcisków palców ⁴.
+
+3. **Systemy zarządzania dostępem (ACS)**:
+    - ACS umożliwiają kontrolę dostępu do pomieszczeń. Przykłady projektów opensource:
+        - **AccessControl**: System kontroli dostępu oparty na Raspberry Pi .
+        - **Node-RED**: Platforma do tworzenia przepływów automatyzujących różne procesy, w tym zarządzanie dostępem .
+
+4. **Inteligentne kamery i sensory**:
+    - Kamery wyposażone w zaawansowane algorytmy AI mogą wykrywać nieprawidłowości. Przykłady projektów opensource:
+        - **Motion**: Oprogramowanie do wykrywania ruchu na podstawie obrazów z kamer .
+        - **ZoneMinder**: System monitoringu oparty na Linuxie, który obsługuje wiele kamer i funkcji wykrywania ruchu .
+
+Wybór odpowiednich rozwiązań zależy od specyfiki organizacji i jej potrzeb. Warto również uwzględnić aspekty bezpieczeństwa i prywatności przy implementacji tych systemów. 📷🔒
+
+
+### Źródła:
+
+(1) [Abstract arXiv:2104.11181v2 - 24 Aug 2021](https://arxiv.org/pdf/2104.11181.pdf)
+(2) [Two Hands Manipulating Objects for First Person Interaction](https://arxiv.org/abs/2104.11181)
+(3) [Two Hands Manipulating Objects for First Person Interaction](https://arxiv.org/pdf/2104.11181v1.pdf)
+(4) [taeinkwon](https://www.taeinkwon.com/projects/h2o)
 
 
 
 
-Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interfejsu i sposobem, w jaki użytkownicy lub systemy mają dostęp do zasobów cyfrowych. Interfejsy, które ułatwiają bezpośrednią, łatwą i często publiczną interakcję, zazwyczaj korzystają na posiadaniu własnych, łatwych do zapamiętania domen internetowych. W przeciwieństwie do tego, niektóre interfejsy mogą funkcjonować efektywnie bez domen, polegając na innych metodach identyfikacji lub lokalnym dostępie. 
+### Projekty opensource
 
+1. **YOLO (You Only Look Once)**:
+    - YOLO to podejście do wykrywania obiektów w czasie rzeczywistym. Możesz znaleźć implementację w języku **Python** w repozytorium na GitHubie:
+        - [YOLOv1 w PyTorch](https://github.com/tanjeffreyz/yolo-v1)
+        - [YOLOv3](https://github.com/zawster/YOLOv3)
+        - [YOLOv8](https://docs.ultralytics.com/)
+
+2. **OpenCV (Open Source Computer Vision Library)**:
+    - OpenCV to ogromna biblioteka do przetwarzania obrazów i widzenia komputerowego. Jest dostępna w wielu językach programowania. Oto link do repozytorium na GitHubie:
+        - [OpenCV](https://github.com/opencv/opencv)
+
+3. **OpenBR (Open Source Biometric Recognition)**:
+    - OpenBR to framework do rozpoznawania biometrycznego, wspierający rozwój otwartych algorytmów i powtarzalne oceny. Możesz znaleźć go tutaj:
+        - [OpenBR](http://openbiometrics.org/)
+
+4. **FingerJetFX OSE (Fingerprint Feature Extractor)**:
+    - FingerJetFX OSE to oprogramowanie do ekstrakcji cech z odcisków palców. Jest dostępne jako open source i może być używane w aplikacjach biometrycznych. Oto link do repozytorium na GitHubie:
+        - [FingerJetFX OSE](https://github.com/FingerJetFXOSE/FingerJetFXOSE)
+
+### Projekty
+
+(1) [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
+(2) [GitHub - tanjeffreyz/yolo-v1: PyTorch implementation of the YOLOv1 ...](https://github.com/tanjeffreyz/yolo-v1)
+(3) [zawster/YOLOv3: You Only Look Once: Real-Time Object Detection - GitHub](https://github.com/zawster/YOLOv3)
+(4) [Home - Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/)
+(5) [GitHub - opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv)
+(6) [OpenCV - Open Computer Vision Library](https://opencv.org/)
+(7) [OpenCV download | SourceForge.net](https://sourceforge.net/projects/opencvlibrary)
+(8) [About - OpenCV](https://opencv.org/about)
+(9) [OpenBR | Home](http://openbiometrics.org)
+(10) [OpenBR](http://openbiometrics.org/docs)
+(11) [biometrics/openbr: Open Source Biometrics, Face Recognition - GitHub](https://github.com/biometrics/openbr)
+(12) [GitHub - FingerJetFXOSE/FingerJetFXOSE: Fingerprint Feature Extractor](https://github.com/FingerJetFXOSE/FingerJetFXOSE)
+(13) [Name already in use - GitHub](https://github.com/FingerJetFXOSE/FingerJetFXOSE/blob/master/FingerJetFXOSE/libFJFX/include/FJFX.h)
+(14) [DigitalPersona Open Sources New FingerJetFX Biometrics Technology - EDN](https://www.edn.com/digitalpersona-open-sources-new-fingerjetfx-biometrics-technology-for-mobile-devices-pcs-and-servers)
+(15) [Top 23 access-control Open-Source Projects (Feb 2024) - LibHunt](https://www.libhunt.com/topic/access-control)
+(16) [GitHub - onury/accesscontrol: Role and Attribute based Access Control ](https://github.com/onury/accesscontrol)
+(17) [GitHub - leosac/access-control: Leosac Access Control - Open Source](https://github.com/leosac/access-control)
+(18) [Keycloak](https://www.keycloak.org)
+(19) [access-control · GitHub Topics · GitHub](https://github.com/topics/access-control)
+(20) [doi](https://doi.org/10.48550/arXiv.1506.02640)
+(21) [opencv](https://opencv.org)
+(22) [opencv courses](https://opencv.org/courses)
+(23) [opencv docs](https://docs.opencv.org/4.x)
+(24) [opencv forum](https://forum.opencv.org)
+(25) [opencv answers](http://answers.opencv.org)
+(26) [opencv github](https://github.com/opencv/opencv/issues)
+(27) [github opencv_contrib](https://github.com/opencv/opencv_contrib)
+(28) [github support](https://opencv.org/support)
+(29) [biometrics](https://github.com/biometrics/openbr.git)
+(30) [ominex_test](http://www.nist.gov/itl/iad/ig/ominex_test-results.cfm)
+(31) [discord](https://discord.gg/S5UjpzGZjN)
+(32) [Getty](https://media.gettyimages.com/photos/summer-memories-sunflowers-picture-id1056933530?b=1&k=20&m=1056933530&s=612x612&w=0&h=tiwrzA7IwPz0jg8w8AGiZgf_p31zq3-3iFWFIaVCIlc=)
 
 
 
@@ -195,26 +295,25 @@ Poniżej znajdują się adresy url do raportów pomocne w zrozumieniu i analizie
 
 ### Źródła:
 
-(1) Global CCTV Market 2023-2027 - Research and Markets. https://www.researchandmarkets.com/report/cctv.
-(2) Image Recognition Market Size, Share & Trends Report 2030. https://www.grandviewresearch.com/industry-analysis/image-recognition-market.
-(3) Global Surveillance Solutions Market - Frost & Sullivan. https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/.
-(4) Video Surveillance Market Research Reports - Research and Markets. https://www.researchandmarkets.com/categories/video-surveillance.
-(5) Global CCTV Cameras Market Size, Market Share ... - Research and Markets. https://www.researchandmarkets.com/reports/4620314/global-cctv-cameras-market-size-market-share.
-(6) CCTV Global Market Report 2024 - Research and Markets. https://www.researchandmarkets.com/reports/5865918/cctv-global-market-report.
-(7) Global Surveillance Solutions Growth Opportunities - Store.Frost.com. https://store.frost.com/global-surveillance-solutions-growth-opportunities.html.
-(8) Global City Surveillance Market, Forecast to 2022. https://store.frost.com/global-city-surveillance-market-forecast-to-2022.html.
-(9) Competitive Analysis in the Video Surveillance Market - Store.Frost.com. https://store.frost.com/competitive-analysis-in-the-video-surveillance-market.html.
-(10) Frost & Sullivan - Surveillance Market Research Reports & Analysis page .... https://www.marketresearch.com/Frost-Sullivan-v383/Surveillance-c1789/1.html.
-(11) Smart Camera Market by Application & Security - MarketsandMarkets. https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html.
-(12) Security and Surveillance Market Research Reports - MarketsandMarkets. https://www.marketsandmarkets.com/security-and-surveillance-market-research-260.html.
-(13) Security Cameras Market Analysis | Market Research Future. https://www.marketresearchfuture.com/reports/security-cameras-market/market-analysis.
-(14) Security Cameras Market - MarketsandMarkets. https://www.marketsandmarkets.com/Market-Reports/security-cameras-ir-illuminator-market-55383456.html.
-(15) Video Surveillance Market - MarketsandMarkets. https://www.marketsandmarkets.com/Market-Reports/video-surveillance-market-645.html.
-(16) . https://bing.com/search?q=Grand+View+Research+visual+object+identification+market.
-(17) Grand View Research. https://www.grandviewresearch.com/.
-(18) Image Recognition Market To Reach $128.28Bn By 2030 - Grand View Research. https://www.grandviewresearch.com/press-release/global-image-recognition-market.
-(19) Digital Image Processing Market Trends - Grand View Research. https://www.grandviewresearch.com/industry-analysis/digital-image-processing-market-report.
-(20) Healthcare Automatic Identification And Data Capture Market Size Worth .... https://markets.businessinsider.com/news/stocks/healthcare-automatic-identification-and-data-capture-market-size-worth-62-0-billion-by-2028-grand-view-research-inc-1030470104.
+(1) [Global CCTV Market 2023-2027 - Research and Markets](https://www.researchandmarkets.com/report/cctv)
+(2) [Image Recognition Market Size, Share & Trends Report 2030](https://www.grandviewresearch.com/industry-analysis/image-recognition-market)
+(3) [Global Surveillance Solutions Market - Frost & Sullivan](https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/)
+(4) [Video Surveillance Market Research Reports - Research and Markets](https://www.researchandmarkets.com/categories/video-surveillance)
+(5) [Global CCTV Cameras Market Size, Market Share- Research and Markets](https://www.researchandmarkets.com/reports/4620314/global-cctv-cameras-market-size-market-share)
+(6) [CCTV Global Market Report 2024 - Research and Markets](https://www.researchandmarkets.com/reports/5865918/cctv-global-market-report)
+(7) [Global Surveillance Solutions Growth Opportunities - Store.Frost.com](https://store.frost.com/global-surveillance-solutions-growth-opportunities.html)
+(8) [Global City Surveillance Market, Forecast to 2022](https://store.frost.com/global-city-surveillance-market-forecast-to-2022.html)
+(9) [Competitive Analysis in the Video Surveillance Market - Store.Frost.com](https://store.frost.com/competitive-analysis-in-the-video-surveillance-market.html)
+(10) [Frost & Sullivan - Surveillance Market Research Reports & Analysis page](https://www.marketresearch.com/Frost-Sullivan-v383/Surveillance-c1789/1.html)
+(11) [Smart Camera Market by Application & Security - MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html)
+(12) [Security and Surveillance Market Research Reports - MarketsandMarkets](https://www.marketsandmarkets.com/security-and-surveillance-market-research-260.html)
+(13) [Security Cameras Market Analysis | Market Research Future](https://www.marketresearchfuture.com/reports/security-cameras-market/market-analysis)
+(14) [Security Cameras Market - MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/security-cameras-ir-illuminator-market-55383456.html)
+(15) [Video Surveillance Market - MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/video-surveillance-market-645.html)
+(16) [Grand View Research](https://www.grandviewresearch.com/)
+(17) [Image Recognition Market To Reach $128.28Bn By 2030 - Grand View Research](https://www.grandviewresearch.com/press-release/global-image-recognition-market)
+(18) [Digital Image Processing Market Trends - Grand View Research](https://www.grandviewresearch.com/industry-analysis/digital-image-processing-market-report)
+(19) [Healthcare Automatic Identification And Data Capture Market Size Worth](https://markets.businessinsider.com/news/stocks/healthcare-automatic-identification-and-data-capture-market-size-worth-62-0-billion-by-2028-grand-view-research-inc-1030470104)
 
 
 
