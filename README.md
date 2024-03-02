@@ -621,7 +621,7 @@ Do roku 2030 rynek domen może stać się bardziej zróżnicowany, z większym n
 ## Wywiad z inżynierem IoT
 
 Na koniec raportu chciałbym tylko uzupełnić mój punkt widzenia z osobą, która działa na co dzień z infrastrukturą IoT/edge computing.
-Poniższa rozmowa została przeprowadzona za pomocą komunikatora i ze względu prywatności naziwsko Inżyniera Embedded zostały ukryte.
+Poniższa rozmowa została przeprowadzona za pomocą komunikatora i ze względu na prywatność, nazwisko Inżyniera Embedded zostało ukryte.
 Wniosek z rozmowy jest taki, że środowisko IoT naprawdę zmienia nasze podejście do komunikacji w internecie.
 
 
