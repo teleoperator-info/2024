@@ -158,8 +158,6 @@ Wykorzystanie domen internetowych w komunikacji między ludźmi (H2H - Human-to-
 
 
 
-
-
 ## Interfejs
 
 
@@ -170,16 +168,62 @@ Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interf
 
 
 
+## Raporty
+
+
+Poniżej znajdują się adresy url do raportów pomocne w zrozumieniu i analizie rynku technologii nadzoru
+
+
+1. **Raport o rynku kamer bezpieczeństwa według MarketsandMarkets**:
+    - Ten raport analizuje rynek inteligentnych kamer do celów bezpieczeństwa i monitoringu. Szacuje się, że rynek ten wzrośnie z 1,93 miliarda dolarów w 2015 roku do 3,06 miliarda dolarów w 2020 roku, z rocznym średnim tempem wzrostu wynoszącym 9,7% ¹.
+    - [Link do raportu](https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html)
+
+2. **Raport Grand View Research na temat rynku rozpoznawania obiektów wizualnych**:
+    - Ten raport analizuje globalny rynek rozpoznawania obiektów wizualnych. W 2022 roku rynek ten osiągnął wartość 45,02 miliarda dolarów i przewiduje się, że będzie rósł z rocznym średnim tempem wzrostu wynoszącym 13,4% w latach 2023–2030 ¹⁷.
+    - [Link do raportu](https://www.grandviewresearch.com/industry-analysis/image-recognition-market)
+
+3. **Raport o rynku CCTV według Research and Markets**:
+    - Ten raport analizuje rynek systemów monitoringu CCTV. Przewiduje się, że rynek ten osiągnie wartość 12 643,33 milionów dolarów w okresie 2022–2027, z rocznym średnim tempem wzrostu wynoszącym 11,92% ¹.
+    - [Link do raportu](https://www.researchandmarkets.com/report/cctv)
+
+4. **Analiza rynku technologii nadzoru według Frost & Sullivan**:
+    - Ta analiza obejmuje globalny rynek rozwiązań nadzoru, identyfikując trendy, najlepsze praktyki i czynniki decyzyjne klientów w pięciu pionierskich branżach: organy ścigania, handel detaliczny, przedsiębiorstwa, lotniska oraz bankowość i usługi finansowe ⁵.
+    - [Link do analizy](https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/)
+
+
+
+
+### Źródła:
+
+(1) Global CCTV Market 2023-2027 - Research and Markets. https://www.researchandmarkets.com/report/cctv.
+(2) Image Recognition Market Size, Share & Trends Report 2030. https://www.grandviewresearch.com/industry-analysis/image-recognition-market.
+(3) Global Surveillance Solutions Market - Frost & Sullivan. https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/.
+(4) Video Surveillance Market Research Reports - Research and Markets. https://www.researchandmarkets.com/categories/video-surveillance.
+(5) Global CCTV Cameras Market Size, Market Share ... - Research and Markets. https://www.researchandmarkets.com/reports/4620314/global-cctv-cameras-market-size-market-share.
+(6) CCTV Global Market Report 2024 - Research and Markets. https://www.researchandmarkets.com/reports/5865918/cctv-global-market-report.
+(7) Global Surveillance Solutions Growth Opportunities - Store.Frost.com. https://store.frost.com/global-surveillance-solutions-growth-opportunities.html.
+(8) Global City Surveillance Market, Forecast to 2022. https://store.frost.com/global-city-surveillance-market-forecast-to-2022.html.
+(9) Competitive Analysis in the Video Surveillance Market - Store.Frost.com. https://store.frost.com/competitive-analysis-in-the-video-surveillance-market.html.
+(10) Frost & Sullivan - Surveillance Market Research Reports & Analysis page .... https://www.marketresearch.com/Frost-Sullivan-v383/Surveillance-c1789/1.html.
+(11) Smart Camera Market by Application & Security - MarketsandMarkets. https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html.
+(12) Security and Surveillance Market Research Reports - MarketsandMarkets. https://www.marketsandmarkets.com/security-and-surveillance-market-research-260.html.
+(13) Security Cameras Market Analysis | Market Research Future. https://www.marketresearchfuture.com/reports/security-cameras-market/market-analysis.
+(14) Security Cameras Market - MarketsandMarkets. https://www.marketsandmarkets.com/Market-Reports/security-cameras-ir-illuminator-market-55383456.html.
+(15) Video Surveillance Market - MarketsandMarkets. https://www.marketsandmarkets.com/Market-Reports/video-surveillance-market-645.html.
+(16) . https://bing.com/search?q=Grand+View+Research+visual+object+identification+market.
+(17) Grand View Research. https://www.grandviewresearch.com/.
+(18) Image Recognition Market To Reach $128.28Bn By 2030 - Grand View Research. https://www.grandviewresearch.com/press-release/global-image-recognition-market.
+(19) Digital Image Processing Market Trends - Grand View Research. https://www.grandviewresearch.com/industry-analysis/digital-image-processing-market-report.
+(20) Healthcare Automatic Identification And Data Capture Market Size Worth .... https://markets.businessinsider.com/news/stocks/healthcare-automatic-identification-and-data-capture-market-size-worth-62-0-billion-by-2028-grand-view-research-inc-1030470104.
+
 
 
 
 
 ## Przyszłość rynku rozpoznawania obiektów do roku 2030
 
-Przewidywanie przyszłego rozwoju rynku domen do roku 2030 należy wziąć pod uwagę dynamikę technologii i zmieniające się preferencje użytkowników. 
+Przewidywanie przyszłego rozwoju rynku do roku 2030 należy wziąć pod uwagę dynamikę technologii i zmieniające się preferencje użytkowników. 
 Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologicznej, można wysnuć pewne przypuszczenia:
-
-
 
 
 1. **MarketsandMarkets** – Jest to firma analityczna oferująca raporty rynkowe w wielu sektorach, w tym w obszarze technologii bezpieczeństwa i monitoringu.
@@ -197,6 +241,8 @@ Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologi
 7. **IPVM** – Strona oferuje nie tylko analizy i raporty rynkowe, ale również testy produktów i porównania w dziedzinie monitoringu wideo i bezpieczeństwa.
 
 Aby uzyskać dostęp do najnowszych raportów i analiz, warto odwiedzić strony tych firm i poszukać konkretnych raportów na temat rynku kamer, rejestratorów i technologii identyfikacji wizualnej. Zazwyczaj wymagane jest zakupienie dostępu do pełnych raportów, choć często można znaleźć streszczenia lub ograniczone wersje dostępne za darmo.
+
+
 
 
 
