@@ -645,7 +645,7 @@ A co sądzisz o twierdzeniu, że domeny umierają, zwłaszcza w kontekście IoT?
 
 **Maciej:**
 To interesująca kwestia. Nie powiedziałbym, że domeny "umierają", ale zdecydowanie następuje zmiana w sposobie ich wykorzystania. 
-Dla wielu celów, szczególnie w przypadku urządzeń IoT, szybsze, tańsze i prostsze może okazać się publikowanie treści w mediach społecznościowych albo korzystanie z usług typu wyszukiwarki, niż tradycyjne zarządzanie hostingiem.
+Producenci mają własne ekosystemy w modelu SaaS. Poza IoT szybsze, tańsze i prostsze może okazać się publikowanie treści w mediach społecznościowych albo korzystanie z usług SaaS, niż tradycyjne zarządzanie hostingiem.
 
 
 
