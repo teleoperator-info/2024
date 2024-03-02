@@ -140,6 +140,7 @@ Wykorzystanie domen internetowych w komunikacji między ludźmi (H2H - Human-to-
 
 ## Najnowsze Technologie i Bezpieczeństwo 
 
+
 ### Branża
 
 Branża monitoringu stale ewoluuje, poniżej lista najnowszych trendów, trendy mogą się zmieniać w zależności od postępu technologicznego i potrzeb rynku.
@@ -162,6 +163,34 @@ Branża monitoringu stale ewoluuje, poniżej lista najnowszych trendów, trendy 
 6. **Integracja z innymi systemami**:
     - Monitorowanie może być bardziej efektywne, gdy jest zintegrowane z systemami kontroli dostępu, alarmowymi i zarządzania budynkiem.
 
+
+
+## Monitoring przemysłowy
+
+W branży monitoringu przemysłowego obserwujemy wiele fascynujących trendów.
+Oto kilka z nich:
+
+1. **Inteligentne kamery z wykorzystaniem sztucznej inteligencji (AI)**:
+    - Kamery "smart" wyposażone w algorytmy AI umożliwiają zaawansowaną analizę, taką jak wykrywanie pojazdów, osób, twarzy, liczenie ruchu i rozpoznawanie tablic rejestracyjnych. Współpraca tych kamer z inteligentnymi analizami pozwala na projektowanie bezpiecznych i efektywnych środowisk monitoringu ¹.
+
+2. **Wzrost popytu na rozwiązania typu "wszystko w jednym"**:
+    - Rozwiązania łączące nagrywanie na miejscu z serwerem WAVE są coraz bardziej popularne. Wykorzystanie technologii AI i Deep Learning pozwala na dostarczanie wartościowych informacji biznesowych ¹.
+
+3. **Elastyczne rozwiązania przechowywania w chmurze**:
+    - Wymagania projektowe coraz częściej obejmują elastyczne rozwiązania przechowywania w chmurze, które pozwalają na centralizację kamer bez względu na lokalizację. Pomimo pewnych obaw związanych z bezpieczeństwem i dostępem do chmury, coraz więcej użytkowników korzysta z tej technologii ¹.
+
+4. **Przyspieszenie adopcji chmury**:
+    - Pandemia przyspieszyła adopcję chmury, a firmy potrzebują szybkich i działających rozwiązań. Chmura pozwala na szybkie wdrożenie systemów wideo. W miarę jak dealerzy i integratorzy stają się bardziej zaznajomieni z platformami wideo w chmurze, coraz więcej klientów korzysta z tej technologii ¹.
+
+
+trendy mogą się zmieniać w zależności od postępu technologicznego i potrzeb rynku.
+
+### Źródła:
+
+(1) [Security Trends: Four Surveillance Trends for 2023 and Beyond](https://www.asisonline.org/publications--resources/news/blog/2023/security-trends-four-surveillance-trends)
+(2) [Security Megatrends: The 2022 Vision for the Security Industry](https://www.securityindustry.org/report/security-megatrends-the-2022-vision-for-the-security-industry)
+(3) [Security Technology Overview & Industry Trends of 2024 + PDF](https://www.avigilon.com/blog/security-technology)
+(4) [Security Megatrends: The 2021 Vision for the Security Industry](https://www.securityindustry.org/report/2021-security-megatrends-report)
 
 
 
