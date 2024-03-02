@@ -7,6 +7,10 @@ w roku 2024 nie jest łatwe, [teleoperator](https://www.teleoperator.info/) słu
 - Jak zmieniał się rynek systemów wizyjnych w zastosowaniach przemysłowych w ostatniej dekadzie?
 - Jak zmieni się rynek do roku 2030?
 
+W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury monitoringu, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
+Dokument skupia się na fundamentach i konsekwencjach, w której prywatna infratsruktura 5G/6G odgrywa kluczową rolę.
+Raport systemów rozpoznawnaia obiektów dla systów monitorowania CCTV z wykorzystaniem edge computing z przeetwarzaniem LLM obiektów.
+Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
 
 
 ### Udostępnij w Social Mediach:
@@ -45,15 +49,6 @@ Dla **deweloperów**, **managerów**, **inwestorów**, **specjalistów IT**, rap
 
 
 
-## Wstęp
-
-
-W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury monitoringu, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
-Dokument skupia się na fundamentach i konwekwencjach w której prywatne domeny providerów 5G/6G odgrywają kluczową rolę jako usługodawcy.
-
-Raport systemów rozpoznawnaia obiektów dla systów monitorowania CCTV z wykorzystaniem edge computing z przeetwarzaniem LLM obiektów.
-Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
-
 
 ### Nowa technologia, nowe zagrożenia
 
@@ -71,7 +66,9 @@ Unia Europejska postrzega **cyberbezpieczeństwo** jako jedną z podstaw realiza
 4. **Młode pokolenie inżynierów i profesjonalistów**:
     - Nowe pokolenie inżynierów wnosi nowe pomysły i oczekiwania dotyczące szybkości rozwoju, prostoty projektowania i interaktywności.
 
-Pamiętajmy, że zapewnienie **cyberbezpieczeństwa** stało się jednym z priorytetów UE. Szczegółowe cele w tym obszarze zostały wyznaczone w **Europejskiej Unii Bezpieczeństwa 2020-2025** i opublikowanej w grudniu 2020 unijnej [strategii cyberbezpieczeństwa](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
+
+Zapewnienie **cyberbezpieczeństwa** stało się jednym z priorytetów UE. 
+Szczegółowe cele w tym obszarze zostały wyznaczone w **Europejskiej Unii Bezpieczeństwa 2020-2025** i opublikowanej w grudniu 2020 unijnej [strategii cyberbezpieczeństwa](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
 
 
 ### Źródła:
@@ -369,25 +366,33 @@ Wybór odpowiednich rozwiązań zależy od specyfiki organizacji i jej potrzeb. 
 
 
 Poniżej znajdują się adresy url do raportów pomocne w zrozumieniu i analizie rynku technologii nadzoru
+#6G #Architektura #Trendy #Technologia
 
 
-1. **Raport o rynku kamer bezpieczeństwa według MarketsandMarkets**:
-    - Ten raport analizuje rynek inteligentnych kamer do celów bezpieczeństwa i monitoringu. Szacuje się, że rynek ten wzrośnie z 1,93 miliarda dolarów w 2015 roku do 3,06 miliarda dolarów w 2020 roku, z rocznym średnim tempem wzrostu wynoszącym 9,7% ¹.
-    - [Link do raportu](https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html)
-
-2. **Raport Grand View Research na temat rynku rozpoznawania obiektów wizualnych**:
-    - Ten raport analizuje globalny rynek rozpoznawania obiektów wizualnych. W 2022 roku rynek ten osiągnął wartość 45,02 miliarda dolarów i przewiduje się, że będzie rósł z rocznym średnim tempem wzrostu wynoszącym 13,4% w latach 2023–2030 ¹⁷.
-    - [Link do raportu](https://www.grandviewresearch.com/industry-analysis/image-recognition-market)
-
-3. **Raport o rynku CCTV według Research and Markets**:
-    - Ten raport analizuje rynek systemów monitoringu CCTV. Przewiduje się, że rynek ten osiągnie wartość 12 643,33 milionów dolarów w okresie 2022–2027, z rocznym średnim tempem wzrostu wynoszącym 11,92% ¹.
-    - [Link do raportu](https://www.researchandmarkets.com/report/cctv)
-
-4. **Analiza rynku technologii nadzoru według Frost & Sullivan**:
-    - Ta analiza obejmuje globalny rynek rozwiązań nadzoru, identyfikując trendy, najlepsze praktyki i czynniki decyzyjne klientów w pięciu pionierskich branżach: organy ścigania, handel detaliczny, przedsiębiorstwa, lotniska oraz bankowość i usługi finansowe ⁵.
-    - [Link do analizy](https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/)
+### [Raport o rynku kamer bezpieczeństwa według MarketsandMarkets](https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html)
+Ten raport analizuje rynek inteligentnych kamer do celów bezpieczeństwa i monitoringu. Szacuje się, że rynek ten wzrośnie z 1,93 miliarda dolarów w 2015 roku do 3,06 miliarda dolarów w 2020 roku, z rocznym średnim tempem wzrostu wynoszącym 9,7% ¹.
 
 
+### [Raport Grand View Research na temat rynku rozpoznawania obiektów wizualnych](https://www.grandviewresearch.com/industry-analysis/image-recognition-market)
+Ten raport analizuje globalny rynek rozpoznawania obiektów wizualnych. W 2022 roku rynek ten osiągnął wartość 45,02 miliarda dolarów i przewiduje się, że będzie rósł z rocznym średnim tempem wzrostu wynoszącym 13,4% w latach 2023–2030 ¹⁷.
+
+
+### [Raport o rynku CCTV według Research and Markets](https://www.researchandmarkets.com/report/cctv)
+Ten raport analizuje rynek systemów monitoringu CCTV. Przewiduje się, że rynek ten osiągnie wartość 12 643,33 milionów dolarów w okresie 2022–2027, z rocznym średnim tempem wzrostu wynoszącym 11,92% ¹.
+
+
+### [Analiza rynku technologii nadzoru według Frost & Sullivan](https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/)
+Ta analiza obejmuje globalny rynek rozwiązań nadzoru, identyfikując trendy, najlepsze praktyki i czynniki decyzyjne klientów w pięciu pionierskich branżach: organy ścigania, handel detaliczny, przedsiębiorstwa, lotniska oraz bankowość i usługi finansowe ⁵.
+
+
+### [Raport o architekturze 6G - Perspektywa europejska](https://5g-ppp.eu/wp-content/uploads/2022/12/6G-Arch-Whitepaper_v1.0-final.pdf)
+
+Ten raport to ważne źródło wiedzy dla wszystkich zainteresowanych przyszłością sieci 6G. Obejmuje analizę obecnych trendów społecznych, ekonomicznych, regulacyjnych i technologicznych. 
+Kluczowe cechy 6G to inteligentne zarządzanie, programowalność, zintegrowane czujniki i komunikację, redukcja zużycia energii, infrastruktura zaufana, skalowalność i dostępność. 
+
+
+
+### Źródła:
 
 
 ### Źródła:
@@ -411,7 +416,13 @@ Poniżej znajdują się adresy url do raportów pomocne w zrozumieniu i analizie
 (17) [Image Recognition Market To Reach $128.28Bn By 2030 - Grand View Research](https://www.grandviewresearch.com/press-release/global-image-recognition-market)
 (18) [Digital Image Processing Market Trends - Grand View Research](https://www.grandviewresearch.com/industry-analysis/digital-image-processing-market-report)
 (19) [Healthcare Automatic Identification And Data Capture Market Size Worth](https://markets.businessinsider.com/news/stocks/healthcare-automatic-identification-and-data-capture-market-size-worth-62-0-billion-by-2028-grand-view-research-inc-1030470104)
-
+(20) [The 6G Architecture Landscape - 5G-PPP](https://5g-ppp.eu/wp-content/uploads/2022/12/6G-Arch-Whitepaper_v1.0-final.pdf)
+(21) [European Vision for the 6G Network Ecosystem - 5G-PPP](https://5g-ppp.eu/wp-content/uploads/2021/06/WhitePaper-6G-Europe.pdf)
+(22) [6G Fundamentals: Vision and Enabling Technologies: From 5G to 6G](https://jtde.telsoc.org/index.php/jtde/article/view/418)
+(23) [doi zenodo](https://doi.org/10.5281/zenodo.7313232)
+(24) [How to Use Microsoft Edge to Access Security Cameras - CCTV Camera World](https://www.cctvcameraworld.com/security-cameras/use-microsoft-edge-security-cameras/)
+(25) [Edge Computing: Wspieramy Twoją transformację cyfrową - APC](https://www.apc.com/pl/pl/solutions/business-solutions/edge-computing/what-is-edge-computing.jsp)
+(26) [Bezpieczne rozwiązania covid-19 z IoT Edge - Azure Architecture Center](https://learn.microsoft.com/pl-pl/azure/architecture/solution-ideas/articles/cctv-iot-edge-for-covid-19-safe-environment-and-mask-detection)
 
 
 
