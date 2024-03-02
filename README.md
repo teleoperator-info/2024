@@ -338,28 +338,34 @@ W tym samym czasie domeny .de sa dostępne w cenach poniżej 10EUR a przyrost ce
 ![obraz](https://github.com/askdomainer/2024/assets/5669657/a6ca30fd-1e84-4380-b649-28831f54eee3)
 
 
-Zakup własnej domeny internetowej do infrastruktury, zwłaszcza w kontekście rozwiniętych sieci oraz systemów Human-to-Machine (H2M) działających na sieciach 5G i 6G, może przynieść wiele korzyści oraz ułatwień. 
+Zakup własnej domeny internetowej do infrastruktury, zwłaszcza w kontekście rozwiniętych sieci oraz systemów Human-to-Machine (H2M) działających w sieciach 5G i 6G, może przynieść wiele korzyści oraz ułatwień. 
 
-### Korzyści z zakupu własnej domeny internetowej:
+
+### Korzyści z zakupu własnej domeny internetowej
+
 
 #### Profesjonalizm i marka
-Własna domena przyczynia się do budowania marki i jest znakiem profesjonalizmu. W kontekście H2M, gdzie aplikacje mogą komunikować się z urządzeniami lub serwerami, łatwa do zapamiętania domena może ułatwić zarządzanie i dostęp.
+
+Własna domena przyczynia się do budowania marki i jest znakiem profesjonalizmu. 
+Ten argument od zawsze był istotny, gdyż domeny internetowe łączą infrastrukutrę z człowiekiem poprzez zrozumiały przez człowieka adres zasobu.
+Domena internetowa nie jest technicznie konieczna do działania systemów H2M opartych na sieciach 5G i 6G. 
+Urządzenia i serwisy mogą komunikować się bezpośrednio przez adresy IP lub lokalne identyfikatory. 
+Jednakże w przypadkach, gdy system zakłada interakcję z użytkownikiem (np. przez przeglądarkę lub aplikację mobilną), własna domena może znacząco ułatwić dostęp i zarządzanie.
   
+
 #### Kontrola nad infrastrukturą
-Posiadanie własnej domeny daje większą kontrolę nad infrastrukturą i sposobem, w jaki dane są routowane w sieci. Umożliwia to lepsze zarządzanie bezpieczeństwem oraz optymalizację systemów.
 
-#### Łatwość dostępu i nawigacji
+Posiadanie własnej domeny daje większą kontrolę nad infrastrukturą i sposobem, w jaki dane są routowane w sieci. 
+Umożliwia to lepsze zarządzanie bezpieczeństwem oraz optymalizację systemów.
 W systemach H2M, użytkownicy (ludzie) czasem muszą mieć możliwość łatwego dostępu do interfejsów użytkownika lub paneli zarządzania urządzeniami, co jest ułatwione przez intuicyjne nazwy domen.
+Aplikacje mogą komunikować się z urządzeniami lub serwerami, a łatwa do zapamiętania domena ułatwia zarządzanie i dostęp.
 
 
-### Domena internetowa a systemy H2M:
-
-Domena internetowa nie jest technicznie konieczna do działania systemów H2M opartych na sieciach 5G i 6G. Urządzenia i serwisy mogą komunikować się bezpośrednio przez adresy IP lub lokalne identyfikatory. Jednakże w przypadkach, gdy system zakłada interakcję z użytkownikiem (np. przez przeglądarkę lub aplikację mobilną), własna domena może znacząco ułatwić dostęp i zarządzanie.
-
-  
+ 
 ### Domena internetowa a warstwa szyfrowania
 
 Warstwa szyfrowania komunikacji, takiej jak SSL/TLS (Secure Sockets Layer/Transport Layer Security), nie wymaga technicznie posiadania domeny internetowej. Szyfrowanie można zastosować do komunikacji opartej na adresach IP lub w sieciach zamkniętych. Jednakże, w praktyce, certyfikaty SSL/TLS, które zapewniają szyfrowanie i autentykację, są często wydawane dla konkretnych nazw domen. Posiadanie domeny ułatwia zatem wdrażanie szyfrowania "end-to-end" w dostępnych publicznie aplikacjach i usługach internetowych, zapewniając bezpieczeństwo danych użytkowników i systemu.
+
 
 
 ### Podsumowanie:
@@ -384,14 +390,21 @@ Zapotrzebowanie na domeny internetowe jest ściśle powiązane z rodzajem interf
 
 ### Interfejsy wymagające domen internetowych:
 
+
 #### Strony WWW
-Tradycyjne strony internetowe, sklepy online, blogi itp., które są dostępne dla szerokiej publiczności, korzystają z domen internetowych, aby ułatwić użytkownikom dostęp poprzez łatwe do zapamiętania adresy URL. Domena stanowi integralną część marki w internecie.
+
+Tradycyjne strony internetowe, sklepy online, blogi itp., które są dostępne dla szerokiej publiczności, korzystają z domen internetowych, aby ułatwić użytkownikom dostęp poprzez łatwe do zapamiętania adresy URL. 
+Domena stanowi integralną część marki w internecie.
+
 
 #### Web aplikacje
+
 Aplikacje działające w przeglądarce, oferujące szeroki zakres usług (od narzędzi biurowych po platformy rozrywkowe), wymagają domen internetowych do łatwego dostępu i promocji.
 
+
 #### API (Application Programming Interface)
-oparte na sieci: Publicznie dostępne interfejsy programistyczne, które pozwalają na integrację z różnymi usługami i aplikacjami, często korzystają z domen internetowych, aby zapewnić stabilny i łatwo dostępny punkt dostępu.
+
+API to oparte na sieci publicznie dostępne interfejsy programistyczne, które pozwalają na integrację z różnymi usługami i aplikacjami, często korzystają z domen internetowych, aby zapewnić stabilny i łatwo dostępny punkt dostępu.
 
 
 
@@ -430,6 +443,7 @@ Ogólnie rzecz biorąc, zapotrzebowanie na domeny internetowe zależy od natury 
 
 Przewidywanie przyszłego rozwoju rynku domen do roku 2030 należy wziąć pod uwagę dynamikę technologii i zmieniające się preferencje użytkowników. 
 Opierając się na obecnych trendach i możliwych kierunkach ewolucji technologicznej, można wysnuć pewne przypuszczenia:
+
 
 
 #### Wzrost znaczenia domen internetowych
@@ -498,14 +512,17 @@ Zwiększenie liczby urządzeń zdolnych do bezpośredniego połączenia z intern
 
 
 #### Większe możliwości IoT
+
 Zwiększona przepustowość i niższe opóźnienia ułatwią rozwój zaawansowanego IoT, co może przełożyć się na potrzebę posiadania unikalnych domen dla niezliczonych nowych urządzeń i serwisów internetowych.
 
   
 #### Nowe usługi internetowe
+
 Większe prędkości i zasięg mogą stworzyć popyt na nowe rodzaje serwisów online, które będą wymagały rejestracji nowych domen, zarówno dla usług konsumenckich, jak i biznesowych. 
 
 
 #### Wirtualna i rozszerzona rzeczywistość
+
 Zwiększone prędkości i mniejsze opóźnienia sieciowe są kluczowe dla rozwoju technologii VR (Virtual Reality) i AR (Augmented Reality), co może prowadzić do wzrostu popytu na domeny związane z tymi technologiami.
   
 
@@ -550,6 +567,8 @@ graph LR;
 
 ### Domeny jako kluczowy element strategii SEO
 Optymalizacja pod kątem wyszukiwarek (SEO) będzie nadal kluczowym elementem strategii online, a posiadanie odpowiedniej domeny – ważnym czynnikiem wpływającym na widoczność w wyszukiwarkach. Domeny zawierające kluczowe słowa lub będące dokładnym dopasowaniem zapytań (Exact Match Domains, EMD) mogą utrzymać swoją wartość dla SEO, choć algorytmy wyszukiwarek ewoluują.
+Sztuczna inteligencja korzysta z metadanych przechowywanych przez wyszukiwarki internetowe, dostęp do rzetelnych metadanych jest kluczowe w dalszym prztwarzaniu przez AI.
+
 
 #### Zmiany w SEO i wartości domen
 
@@ -565,6 +584,7 @@ graph TD;
 ```
 
 ### Zwiększone zapotrzebowanie na zabezpieczenia domen
+
 Wzrost cyberzagrożeń wpłynie na popyt usług związanych z bezpieczeństwem domen, takie jak zabezpieczenia przed kradzieżami domen, zaawansowane zarządzanie certyfikatami SSL/TLS, czy ochrona prywatności danych właściciela domeny.
 
 
@@ -573,6 +593,8 @@ Wzrost cyberzagrożeń wpłynie na popyt usług związanych z bezpieczeństwem d
 ### Regulacje prawne i ich wpływ na rynek
 Wzrost regulacji dotyczących zarządzania domenami, prywatności użytkowników i bezpieczeństwa danych. 
 Skomplikowanie prawne może wpłynąć na rynek domen, wymuszając na biznesach i indywidualnych użytkownikach dostosowanie się do nowych przepisów.
+
+
 
 #### Bezpieczeństwo i regulacje domen
 
