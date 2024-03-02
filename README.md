@@ -156,15 +156,6 @@ Podsumowując, rynek systemów rozpoznawania obiektów dla monitoringu CCTV ewol
 
 
 
-
-
-
-### Dyskusja
-
-+ [askdomainer/2024 · Discussion #1](https://github.com/askdomainer/2024/discussions/1)
-
-
-
 ## Ostatnia dekada
 
 W ciągu ostatniej dekady rynek systemów wizyjnych w zastosowaniach przemysłowych przeszedł wiele zmian. 
@@ -475,6 +466,9 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
 
 + [Tom Sapletta, Linkedin](https://www.linkedin.com/in/tom-sapletta-com)
 + [Tom Sapletta, Github](https://github.com/tom-sapletta-com)
++ [teleoperator-info/2024 · Discussion #1](https://github.com/teleoperator-info/2024/discussions/1)
+
+
 
 ---
 
