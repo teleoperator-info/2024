@@ -1,50 +1,93 @@
 
 
-
 # [www.teleoperator.info](https://www.teleoperator.info/)
 
 Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
 w roku 2024 nie jest łatwe, [teleoperator](https://www.teleoperator.info/) służy analizie jakościowej aktualnych trendów, by odpowiedzieć sobie na pytania:
-- Jak zmieniał się rynek domen w ostatniej dekadzie?
+- Jak zmieniał się rynek systemów wizyjnych w zastosowaniach przemysłowych w ostatniej dekadzie?
 - Jak zmieni się rynek do roku 2030?
-
-W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury internetowej, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
-Dokument skupia się na fundamentach i konwekwencjach w której prywatne domeny providerów 5G/6G odgrywają kluczową rolę jako pośrednicy w dostępie do domen publicznych.
-
-
-Raport systemów rozpoznawnaia obiektów dla systów monitorowania CCTV z wykorzystaniem edge computing z przeetwarzaniem LLM obiektów.
-Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
-
-### Główne Punkty
-
-#### Obecna Struktura
-
-
-#### Nowe Warstwy Bezpieczeństwa
-
-
-#### Zmiany prawne i technologiczne
-
-
-
-### Rekomendacje:
-
-Dla **deweloperów**, **spekulantów**, **inwestorów**, **specjalistów IT**, raport stanowi kluczowe źródło wiedzy o kierunkach rozwoju infrastruktury internetowej oraz przyszłych wyzwaniach w zakresie bezpieczeństwa cyfrowego. 
-**Decydenci biznesowi** znajdą w nim cenne informacje na temat nadchodzących zmian, które mogą wywierać wpływ na strategie cyfrowe ich organizacji. Dla **entuzjastów technologii** i **studentów**, dokument oferuje głęboki wgląd w przyszłość komunikacji internetowej.
-
 
 
 
 ### Udostępnij w Social Mediach:
 
-Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią świat domen internetowych? 🌐💡 Sprawdź nasz najnowszy raport, który zagłębia się w nadchodzące zmiany infrastruktury internetowej! 
-Idealna lektura dla każdego technofila! #5G #6G #InternetPrzyszłości #BezpieczeństwoCyfrowe ➡️ [teleoperator](https://www.teleoperator.info/)
+Myślisz o przyszłości internetu i jak technologie 5G/6G odmienią świat domen internetowych? 🌐💡
+Sprawdź nasz najnowszy raport ➡️ [Raport Teleoperator.info](https://www.teleoperator.info/)
+**📢 Zapraszam wszystkich zainteresowanych branżą monitoringu i technologii bezpieczeństwa! 📷🔒**
+#monitorowanie #Innowacje #WizjaKomputerowa #5G #6G #CCTV #AI #Bezpieczeństwo #Cyberbezpieczeństwo 
+
+ 
+#### Jeśli jesteś:
+
+- **Specjalistą ds. bezpieczeństwa**: Dowiedz się, jak najnowsze trendy i innowacje mogą zwiększyć skuteczność systemów monitoringu w Twojej organizacji. #Bezpieczeństwo #Monitoring
+- **Inżynierem wizji komputerowej**: Odkryj, jak AI i rozpoznawanie obiektów zmieniają przemysł. #AI #WizjaKomputerowa
+- **Przedsiębiorcą**: Zastanów się, jakie możliwości oferuje rynek kamer i jakie korzyści może przynieść Twojej firmie. #Innowacje #Biznes
+- **Pasjonatem technologii**: Śledź rozwój systemów wizyjnych i dowiedz się, jakie projekty opensource warto eksplorować. #Technologia #OpenSource
+
+#### Nie przegap innych raportów! 🌟
+
+1. [MarketsandMarkets - Rynek kamer bezpieczeństwa](https://www.marketsandmarkets.com/Market-Reports/smart-camera-market-195041607.html)
+2. [Grand View Research - Rozpoznawanie obiektów wizualnych](https://www.grandviewresearch.com/industry-analysis/image-recognition-market)
+3. [Research and Markets - Rynek CCTV](https://www.researchandmarkets.com/report/cctv)
+4. [Frost & Sullivan - Analiza rynku technologii nadzoru](https://www.frost.com/news/press-releases/innovation-in-surveillance-technologies-ignites-global-surveillance-solutions-market-growth/)
+
+
+
+
+
+### Rekomendacje:
+
+Dla **deweloperów**, **managerów**, **inwestorów**, **specjalistów IT**, raport stanowi kluczowe źródło wiedzy o kierunkach rozwoju infrastruktury monitorowania oraz przyszłych wyzwaniach w zakresie bezpieczeństwa cyfrowego. 
+**Decydenci biznesowi** znajdą w nim cenne informacje na temat nadchodzących zmian, które mogą wywierać wpływ na strategie cyfrowe ich organizacji. Dla **entuzjastów technologii** i **studentów**, dokument oferuje głęboki wgląd w przyszłość systemów monitoringu.
+
+
+
+
+
+
+## Wstęp
+
+
+W obliczu dynamicznie zmieniającego się krajobrazu technologicznego, ten raport rzuca światło na postępującą ewolucję infrastruktury monitoringu, wyznaczaną przez rozwój sieci 5G i perspektywy wdrożenia 6G. 
+Dokument skupia się na fundamentach i konwekwencjach w której prywatne domeny providerów 5G/6G odgrywają kluczową rolę jako usługodawcy.
+
+Raport systemów rozpoznawnaia obiektów dla systów monitorowania CCTV z wykorzystaniem edge computing z przeetwarzaniem LLM obiektów.
+Zrozumienie rynku systemów wizyjnych i rozpoznawania obiektów nabiera jeszcze szybszego tempa z racji rozwoju nowych modeli LLM.
+
+
+### Nowa technologia, nowe zagrożenia
+
+Unia Europejska postrzega **cyberbezpieczeństwo** jako jedną z podstaw realizacji swoich celów w zakresie digitalizacji. Jednak czy unijne regulacje nadążają z rozwojem technologicznym i nowymi zagrożeniami dla państw i obywateli? Oto kilka kluczowych obserwacji:
+
+1. **Dynamiczny wzrost i innowacje**:
+    - W ciągu ostatniej dekady rynek wizji przeszedł okres niepewności związany z kryzysem finansowym z lat 2007–2008. Jednak z perspektywy czasu ten okres można uznać za preludium do ogromnego wzrostu rynku wizji. W fazie testów znajdują się pojazdy autonomiczne, zaawansowana wirtualna rzeczywistość czy komputery kwantowe.
+
+2. **Wzrost na rynku Azji i Chin**:
+    - Większość wzrostu w ostatnich latach miała miejsce w regionie Azji i szczególnie w Chinach. Tam rynek systemów wizyjnych rozwijał się rocznie o około 48%.
+
+3. **Bezpieczeństwo cybernetyczne i elastyczność**:
+    - Współczesne systemy wizyjne muszą uwzględniać kwestie bezpieczeństwa cybernetycznego oraz zapewniać elastyczność i łączność.
+
+4. **Młode pokolenie inżynierów i profesjonalistów**:
+    - Nowe pokolenie inżynierów wnosi nowe pomysły i oczekiwania dotyczące szybkości rozwoju, prostoty projektowania i interaktywności.
+
+Pamiętajmy, że zapewnienie **cyberbezpieczeństwa** stało się jednym z priorytetów UE. Szczegółowe cele w tym obszarze zostały wyznaczone w **Europejskiej Unii Bezpieczeństwa 2020-2025** i opublikowanej w grudniu 2020 unijnej [strategii cyberbezpieczeństwa](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
+
+
+### Źródła:
+
+(1) [Nowa technologia, nowe zagrożenia - Komisja Europejska](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
+(2) [Europejska unia bezpieczeństwa - Komisja Europejska - European Commission](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/european-security-union_pl)
+(3) [Strategia UE w zakresie unii bezpieczeństwa: wszystkie elementy](https://ec.europa.eu/commission/presscorner/api/files/document/print/pl/ip_20_1379/IP_20_1379_PL.pdf)
 
 
 ### Raport: Systemy Rozpoznawania Obiektów dla Monitoring CCTV z Wykorzystaniem Edge Computing i Przetwarzania LLM
 
 
 Rynek systemów wizyjnych i technologii rozpoznawania obiektów przeżywa dynamiczny rozwój, napędzany postępem w modelach uczenia głębokiego, zwłaszcza w przetwarzaniu języka naturalnego (LLM - Large Language Models). Dzięki tym innowacjom, możliwe staje się implementowanie zaawansowanych systemów monitoringu wideo, które nie tylko efektywniej rozpoznają i śledzą obiekty, ale również interpretują kontekst sytuacyjny, oferując bezprecedensową precyzję i inteligencję systemów CCTV.
+
+
+
 
 ### Główne Punkty Prezentacji Raportu:
 
@@ -117,23 +160,46 @@ Podsumowując, rynek systemów rozpoznawania obiektów dla monitoringu CCTV ewol
 
 
 
+
+
 ### Dyskusja
 
 + [askdomainer/2024 · Discussion #1](https://github.com/askdomainer/2024/discussions/1)
 
 
 
-## Wstęp
+## Ostatnia dekada
+
+W ciągu ostatniej dekady rynek systemów wizyjnych w zastosowaniach przemysłowych przeszedł wiele zmian. 
+Oto kilka kluczowych obserwacji:
+
+1. **Dynamiczny wzrost i innowacje**:
+    - Na początku poprzedniej dekady rynek wizji przeszedł okres niepewności związany z kryzysem finansowym z lat 2007–2008. Jednak z perspektywy czasu ten okres można uznać za preludium do ogromnego wzrostu rynku wizji. W ciągu dekady rynek ten zanotował ogólny wzrost o około 10%, a także obfitość innowacji i konsolidację poprzez fuzje i przejęcia firm działających w tej dziedzinie ¹.
+
+2. **Paradygmat AI (sztucznej inteligencji)**:
+    - Sztuczna inteligencja, szczególnie w postaci sieci neuronowych, stała się dominującym paradygmatem w automatyzacji wizyjnej. Wiele firm zajmujących się przetwarzaniem obrazów rozwija swoje kompetencje w dziedzinie AI ¹.
+
+3. **Wzrost na rynku Azji i Chin**:
+    - Większość wzrostu w ostatnich latach miała miejsce w regionie Azji i szczególnie w Chinach. Tam rynek systemów wizyjnych rozwijał się rocznie o około 48% ².
+
+4. **Współpraca robotów i systemów wizyjnych**:
+    - Wzrost popularności robotów współpracujących i platform mobilnych wymaga nowych systemów wizyjnych, które mogą zapewnić bezpieczeństwo i efektywność w takich środowiskach ¹.
+
+5. **Bezpieczeństwo cybernetyczne i elastyczność**:
+    - Współczesne systemy wizyjne muszą uwzględniać kwestie bezpieczeństwa cybernetycznego oraz zapewniać elastyczność i łączność ¹.
+
+6. **Młode pokolenie inżynierów i profesjonalistów**:
+    - Nowe pokolenie inżynierów wnosi nowe pomysły i oczekiwania dotyczące szybkości rozwoju, prostoty projektowania i interaktywności, wynikające z ich codziennego doświadczenia w cyfrowym świecie ¹.
+
+Podsumowując, rynek systemów wizyjnych jest dynamiczny i pełen możliwości. Wpływ pandemii Covid-19 na ten rynek jest trudny do przewidzenia, ale pewne trendy, takie jak rozwój AI i elastyczność, będą nadal istotne w nadchodzącej dekadzie ¹.
 
 
-### Domain Name System
+### Źródła:
 
-System DNS (Domain Name System) odgrywa kluczową rolę w funkcjonowaniu Internetu, tłumacząc łatwe do zapamiętania nazwy domen (np. www.example.com) na skomplikowane adresy IP (np. 192.0.2.1), które są wykorzystywane przez komputery do łączenia się ze sobą. Chociaż system ten jest niezwykle efektywny w mapowaniu nazw stron internetowych, istnieją obszary, w których wykorzystanie DNS mogło być bardziej innowacyjne. O czym napisano w kolejnych punktach.
-
-
-### Komunikacja
-
-Wykorzystanie domen internetowych w komunikacji między ludźmi (H2H - Human-to-Human) oraz między człowiekiem a maszyną (H2M - Human-to-Machine) mogło otworzyć nowe możliwości dla interakcji w cyfrowym świecie. Proces ten miał potencjał zastąpienia skomplikowanych identyfikatorów numerycznych, adresów IP, identyfikatorów sprzętowych oraz innych trudnych do zapamiętania ciągów cyfr, ułatwiając użytkownikom nawigację i interakcję. 
+(1) [Industry 4.0 and AI to shape vision market](https://www.imveurope.com/analysis-opinion/industry-40-and-ai-shape-vision-market)
+(2) [Machine Vision Systems: Industrial Applications Rise, but Trade is Hard](https://www.usitc.gov/publications/332/executive_briefings/machine_vision_systems.pdf)
+(3) [Trends and Growth in the Machine Vision Market - Cognex](https://www.cognex.com/blogs/machine-vision/future-of-machine-vision-whitepaper)
+(4) [Machine Vision Market - Share, Growth, Industry Size & Trends](https://www.mordorintelligence.com/industry-reports/machine-vision-systems-market)
 
 
 
@@ -183,7 +249,9 @@ Oto kilka z nich:
     - Pandemia przyspieszyła adopcję chmury, a firmy potrzebują szybkich i działających rozwiązań. Chmura pozwala na szybkie wdrożenie systemów wideo. W miarę jak dealerzy i integratorzy stają się bardziej zaznajomieni z platformami wideo w chmurze, coraz więcej klientów korzysta z tej technologii ¹.
 
 
-trendy mogą się zmieniać w zależności od postępu technologicznego i potrzeb rynku.
+Trendy mogą się zmieniać w zależności od postępu technologicznego i potrzeb rynku.
+
+
 
 ### Źródła:
 
@@ -263,7 +331,7 @@ Wybór odpowiednich rozwiązań zależy od specyfiki organizacji i jej potrzeb. 
 ### Projekty
 
 (1) [You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)
-(2) [GitHub - tanjeffreyz/yolo-v1: PyTorch implementation of the YOLOv1 ...](https://github.com/tanjeffreyz/yolo-v1)
+(2) [GitHub - tanjeffreyz/yolo-v1: PyTorch implementation of the YOLOv1](https://github.com/tanjeffreyz/yolo-v1)
 (3) [zawster/YOLOv3: You Only Look Once: Real-Time Object Detection - GitHub](https://github.com/zawster/YOLOv3)
 (4) [Home - Ultralytics YOLOv8 Docs](https://docs.ultralytics.com/)
 (5) [GitHub - opencv/opencv: Open Source Computer Vision Library](https://github.com/opencv/opencv)
