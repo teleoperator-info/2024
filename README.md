@@ -80,21 +80,12 @@ Unia Europejska postrzega **cyberbezpieczeństwo** jako jedną z podstaw realiza
     - Nowe pokolenie inżynierów wnosi nowe pomysły i oczekiwania dotyczące szybkości rozwoju, prostoty projektowania i interaktywności.
 
 
-Zapewnienie **cyberbezpieczeństwa** stało się jednym z priorytetów UE. 
-Szczegółowe cele w tym obszarze zostały wyznaczone w **Europejskiej Unii Bezpieczeństwa 2020-2025** i opublikowanej w grudniu 2020 unijnej [strategii cyberbezpieczeństwa](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
-
-
-### Źródła:
-
-(1) [Nowa technologia, nowe zagrożenia - Komisja Europejska](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
-(2) [Europejska unia bezpieczeństwa - Komisja Europejska - European Commission](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/european-security-union_pl)
-(3) [Strategia UE w zakresie unii bezpieczeństwa: wszystkie elementy](https://ec.europa.eu/commission/presscorner/api/files/document/print/pl/ip_20_1379/IP_20_1379_PL.pdf)
-
-
 ### Raport: Systemy Rozpoznawania Obiektów dla Monitoring CCTV z Wykorzystaniem Edge Computing i Przetwarzania LLM
 
 
 Rynek systemów wizyjnych i technologii rozpoznawania obiektów przeżywa dynamiczny rozwój, napędzany postępem w modelach uczenia głębokiego, zwłaszcza w przetwarzaniu języka naturalnego (LLM - Large Language Models). Dzięki tym innowacjom, możliwe staje się implementowanie zaawansowanych systemów monitoringu wideo, które nie tylko efektywniej rozpoznają i śledzą obiekty, ale również interpretują kontekst sytuacyjny, oferując bezprecedensową precyzję i inteligencję systemów CCTV.
+
+
 
 
 
@@ -201,6 +192,48 @@ Podsumowując, rynek systemów wizyjnych jest dynamiczny i pełen możliwości. 
 (2) [Machine Vision Systems: Industrial Applications Rise, but Trade is Hard](https://www.usitc.gov/publications/332/executive_briefings/machine_vision_systems.pdf)
 (3) [Trends and Growth in the Machine Vision Market - Cognex](https://www.cognex.com/blogs/machine-vision/future-of-machine-vision-whitepaper)
 (4) [Machine Vision Market - Share, Growth, Industry Size & Trends](https://www.mordorintelligence.com/industry-reports/machine-vision-systems-market)
+
+
+
+
+### Polityka Unii Europejskiej
+
+Zapewnienie **cyberbezpieczeństwa** stało się jednym z priorytetów UE. 
+Szczegółowe cele w tym obszarze zostały wyznaczone w **Europejskiej Unii Bezpieczeństwa 2020-2025** i opublikowanej w grudniu 2020 unijnej [strategii cyberbezpieczeństwa](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
+
+**Rozporządzenie DORA** (czyli *Digital Operational Resilience Act*) stanowi kluczowy akt prawny mający na celu wzmocnienie operacyjnej odporności cyfrowej sektora finansowego w Unii Europejskiej (UE), w tym także w Polsce. 
+Rozporządzenie DORA ma na celu zabezpieczenie sektora finansowego przed zagrożeniami cyfrowymi, a jego wprowadzenie będzie miało istotny wpływ na regulacje dotyczące bezpieczeństwa ICT w UE.
+
+
+1. **Cel i Kontekst Historyczny**:
+   - **Cel**: Rozporządzenie DORA ma na celu zwiększenie bezpieczeństwa sektora finansowego w zakresie zarządzania ryzykiem związanym z technologią informacyjno-komunikacyjną (ICT). To reakcja na rosnące zagrożenia związane z cyberbezpieczeństwem.
+   - **Historia**: Rozporządzenie zostało przyjęte przez Radę Unii Europejskiej 28 listopada 2022 roku i zacznie obowiązywać od 17 stycznia 2025 roku (7).
+
+2. **Zakres i Wymagania**:
+   - **Operacyjna Odporność Cyfrowa**: Rozporządzenie DORA skupia się na operacyjnej odporności cyfrowej sektora finansowego. To oznacza, że instytucje finansowe muszą być przygotowane na wyzwania związane z cyberatakami, awariami systemów, czy innymi zagrożeniami.
+   - **Usługi ICT**: Rozporządzenie reguluje świadczenie usług ICT na rynku finansowym, aby zapewnić stabilność i bezpieczeństwo.
+
+3. **Wpływ na Rynek Finansowy**:
+   - **Element Krajobrazu Regulacyjnego**: Rozporządzenie DORA stanie się istotnym elementem krajobrazu regulacyjnego cyberbezpieczeństwa na rynku finansowym (4).
+   - **Współpraca Międzynarodowa**: Wprowadza współpracę między organami nadzoru finansowego w UE w zakresie operacyjnej odporności cyfrowej.
+
+4. **Przygotowanie i Edukacja**:
+   - **Materiały Informacyjne**: Na stronach Komisji Nadzoru Finansowego publikowane są materiały informacyjne i edukacyjne dotyczące Rozporządzenia DORA (4).
+
+
+
+
+### Źródła:
+
+(1) [Nowa technologia, nowe zagrożenia - Komisja Europejska](https://poland.representation.ec.europa.eu/news/nowa-technologia-nowe-zagrozenia-2021-12-07_pl)
+(2) [Europejska unia bezpieczeństwa - Komisja Europejska - European Commission](https://commission.europa.eu/strategy-and-policy/priorities-2019-2024/promoting-our-european-way-life/european-security-union_pl)
+(3) [Strategia UE w zakresie unii bezpieczeństwa: wszystkie elementy](https://ec.europa.eu/commission/presscorner/api/files/document/print/pl/ip_20_1379/IP_20_1379_PL.pdf)
+(4) Rozporządzenie DORA – czym jest Digital Operation Resilience Act?. https://www.grandmetric.com/pl/rozporzadzenie-dora/.
+(5) Rozporządzenie DORA - Komisja Nadzoru Finansowego. https://www.knf.gov.pl/dla_rynku/dora.
+(6) Rozporządzenie DORA - jak się przygotować?. https://arminska.pl/rozporzadzenie-dora/.
+(7) Czym jest rozporządzenie DORA? Praktyczne wyjaśnienie. https://blog.mmcpolska.pl/artykul/czym-jest-rozporzadzenie-dora-praktyczne-wyjasnienie/.
+(8) Regulation - 2022/2554 - EN - DORA - EUR-Lex. https://eur-lex.europa.eu/legal-content/en/TXT/?uri=CELEX:32022R2554.
+
 
 
 
