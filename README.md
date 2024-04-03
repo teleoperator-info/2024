@@ -2,6 +2,10 @@
 
 
 
+[![Track Awesome List](https://www.trackawesomelist.com/badge.svg)](https://www.trackawesomelist.com/teleoperator-info/2024) [![GitHub stars](https://img.shields.io/github/stars/teleoperator-info/2024.svg?style=flat&label=Star)](https://github.com/teleoperator-info/2024/stargazers) [![GitHub forks](https://img.shields.io/github/forks/teleoperator-info/2024.svg?style=flat&label=Fork)](https://github.com/teleoperator-info/2024/fork) [![GitHub watchers](https://img.shields.io/github/watchers/teleoperator-info/2024.svg?style=flat&label=Watch)](https://github.com/teleoperator-info/2024/watchers) [![GitHub followers](https://img.shields.io/github/followers/teleoperator-info.svg?label=Follow)](https://github.com/teleoperator-info) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fteleoperator-info%2F2024&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+
+
+
 # [2024.teleoperator.info](https://2024.teleoperator.info/)
 Teleoperator.info to raport na rok 2024 o potencjale detekcji obiektów w systemach wizyjnych.
 
@@ -531,6 +535,19 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
 
 
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=teleoperator-info/2024&type=Date)](https://star-history.com/#teleoperator-info/2024&Date)
+
+
+## [Contributions](http://contribution.softreck.dev)
+
+[CONTRIBUTION](CONTRIBUTION.md) are always welcome:
++ did you found an [Issue or Mistake](https://github.com/teleoperator-info/2024/issues/new)?
++ do you want to [improve](https://github.com/teleoperator-info/2024/edit/main/README.md) the article?
++ are you interested do join another [git projects](https://github.com/teleoperator-info/)?
++ have something to contribute or discuss? [Open a pull request](https://github.com/teleoperator-info/2024/pulls) or [create an issue](https://github.com/teleoperator-info/2024/issues).
+
 ---
 
 
@@ -548,3 +565,5 @@ Szerokie spektrum zainteresowań, umiejętności analityczne i doświadczenie w 
   });
   mermaid.init(undefined, '.language-mermaid');
 </script>
+
+
